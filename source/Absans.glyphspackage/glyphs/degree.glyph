@@ -1,0 +1,42 @@
+{
+glyphname = degree;
+kernLeft = KO_degree;
+kernRight = KO_degree;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 30;
+strokeWidth = 35;
+};
+closed = 1;
+nodes = (
+(276,429,o),
+(335,487,o),
+(335,561,cs),
+(335,635,o),
+(276,693,o),
+(202,693,cs),
+(128,693,o),
+(69,635,o),
+(69,561,cs),
+(69,487,o),
+(128,429,o),
+(202,429,cs)
+);
+}
+);
+width = 405;
+}
+);
+metricLeft = O;
+metricRight = "=|";
+unicode = 176;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+};
+};
+}

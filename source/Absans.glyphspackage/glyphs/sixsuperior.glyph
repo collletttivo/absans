@@ -1,0 +1,17 @@
+{
+glyphname = sixsuperior;
+kernLeft = KO_sixsuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = six.numr;
+}
+);
+width = 360;
+}
+);
+unicode = 8310;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Oslash;
+kernLeft = KO_O;
+kernRight = KO_Q;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (66,0);
+ref = slashlongcomb.case;
+}
+);
+width = 828;
+}
+);
+unicode = 216;
+}

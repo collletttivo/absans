@@ -1,0 +1,64 @@
+{
+glyphname = ringcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (147,500);
+},
+{
+name = top;
+pos = (147,507);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(208,565,o),
+(251,606,o),
+(251,664,cs),
+(251,721,o),
+(208,762,o),
+(147,762,cs),
+(86,762,o),
+(43,721,o),
+(43,664,cs),
+(43,606,o),
+(86,565,o),
+(147,565,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(120,614,o),
+(100,635,o),
+(100,664,cs),
+(100,692,o),
+(120,713,o),
+(147,713,cs),
+(174,713,o),
+(194,692,o),
+(194,664,cs),
+(194,635,o),
+(174,614,o),
+(147,614,cs)
+);
+}
+);
+width = 294;
+}
+);
+metricLeft = o;
+metricRight = "=|";
+unicode = 778;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

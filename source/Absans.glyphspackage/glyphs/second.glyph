@@ -1,0 +1,22 @@
+{
+glyphname = second;
+kernLeft = KO_minute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = minute;
+},
+{
+pos = (160,0);
+ref = minute;
+}
+);
+width = 425;
+}
+);
+metricLeft = quotesingle;
+metricRight = quotesingle;
+unicode = 8243;
+}

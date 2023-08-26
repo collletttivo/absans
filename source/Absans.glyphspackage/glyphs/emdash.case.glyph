@@ -1,0 +1,25 @@
+{
+glyphname = emdash.case;
+kernLeft = KO_endash.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,80);
+ref = emdash;
+}
+);
+width = 613;
+}
+);
+metricLeft = emdash;
+metricRight = "=0";
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
+}

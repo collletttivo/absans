@@ -1,0 +1,77 @@
+{
+glyphname = infinity;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (302,0);
+},
+{
+name = center;
+pos = (302,250);
+},
+{
+name = ogonek;
+pos = (560,10);
+},
+{
+name = top;
+pos = (302,500);
+},
+{
+name = topright;
+pos = (604,500);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 33;
+strokeWidth = 40;
+};
+closed = 1;
+nodes = (
+(195,55,o),
+(118,137,o),
+(118,250,cs),
+(118,363,o),
+(195,444,o),
+(302,444,cs),
+(409,444,o),
+(486,363,o),
+(586,250,c),
+(486,137,o),
+(409,55,o),
+(302,55,cs)
+);
+},
+{
+attr = {
+strokeHeight = 33;
+strokeWidth = 40;
+};
+closed = 1;
+nodes = (
+(763,55,o),
+(686,137,o),
+(586,250,c),
+(686,363,o),
+(763,444,o),
+(870,444,cs),
+(977,444,o),
+(1054,363,o),
+(1054,250,cs),
+(1054,137,o),
+(977,55,o),
+(870,55,cs)
+);
+}
+);
+width = 1172;
+}
+);
+metricRight = "=|";
+unicode = 8734;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = seven;
+kernLeft = KO_seven;
+kernRight = KO_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(190,0,l),
+(516,645,l),
+(516,700,l),
+(40,700,l),
+(40,633,l),
+(481,633,l),
+(456,675,l),
+(110,0,l)
+);
+}
+);
+width = 556;
+}
+);
+unicode = 55;
+}

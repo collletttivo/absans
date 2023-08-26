@@ -1,0 +1,45 @@
+{
+glyphname = integral;
+kernRight = KO_integral;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (-89,-200);
+},
+{
+name = top;
+pos = (-89,708);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+identifier = ID0x7f7b74419f20;
+lineCapEnd = 4;
+lineCapStart = 4;
+strokeHeight = 35;
+strokeWidth = 40;
+};
+closed = 0;
+nodes = (
+(5,-182,l),
+(136,-208,o),
+(224,-122,o),
+(224,8,c),
+(224,597,l),
+(224,727,o),
+(312,813,o),
+(443,786,c)
+);
+}
+);
+width = 448;
+}
+);
+metricLeft = j;
+metricRight = "=|j";
+unicode = 8747;
+}

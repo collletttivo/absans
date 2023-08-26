@@ -1,0 +1,24 @@
+{
+glyphname = two.blackCircled;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = blackCircle;
+},
+{
+attr = {
+reversePaths = 1;
+};
+pos = (254,158);
+ref = two.dnom;
+}
+);
+width = 868;
+}
+);
+metricLeft = whiteCircle;
+metricRight = whiteCircle;
+unicode = 10103;
+}

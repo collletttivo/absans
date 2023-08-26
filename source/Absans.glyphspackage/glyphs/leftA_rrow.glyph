@@ -1,0 +1,25 @@
+{
+glyphname = leftArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (713,0);
+ref = rightArrow;
+scale = (-1,1);
+}
+);
+width = 713;
+}
+);
+metricLeft = "=|rightArrow";
+metricRight = hyphen;
+unicode = 8592;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

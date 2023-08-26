@@ -1,0 +1,21 @@
+{
+glyphname = Ebreve;
+kernLeft = KO_H;
+kernRight = KO_E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (121,0);
+ref = brevecomb.case;
+}
+);
+width = 618;
+}
+);
+unicode = 276;
+}

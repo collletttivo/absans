@@ -1,0 +1,25 @@
+{
+glyphname = guillemetleft.case;
+kernLeft = KO_guillemetleft.case;
+kernRight = KO_guillemetleft.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,91);
+ref = guillemetleft;
+}
+);
+width = 642;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

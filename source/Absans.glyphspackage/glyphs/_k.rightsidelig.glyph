@@ -1,0 +1,45 @@
+{
+export = 0;
+glyphname = _k.rightsidelig;
+layers = (
+{
+anchors = (
+{
+name = "#entry";
+pos = (42,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x580827820;
+};
+closed = 1;
+nodes = (
+(42,180,l),
+(402,500,l),
+(309,500,l),
+(0,222,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x580827820;
+};
+closed = 1;
+nodes = (
+(337,0,l),
+(422,0,l),
+(178,344,l),
+(112,313,l)
+);
+}
+);
+width = 422;
+}
+);
+metricRight = k;
+}

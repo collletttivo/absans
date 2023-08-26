@@ -1,0 +1,23 @@
+{
+glyphname = eight.blackCircled.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = blackSquare;
+},
+{
+attr = {
+reversePaths = 1;
+};
+pos = (248,158);
+ref = eight.dnom;
+}
+);
+width = 870;
+}
+);
+metricLeft = whiteSquare;
+metricRight = whiteSquare;
+}

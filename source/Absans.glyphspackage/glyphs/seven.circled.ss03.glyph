@@ -1,0 +1,19 @@
+{
+glyphname = seven.circled.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = whiteCircle.ss03;
+},
+{
+pos = (321,161);
+ref = seven.dnom;
+}
+);
+width = 913;
+}
+);
+metricRight = whiteCircle;
+}

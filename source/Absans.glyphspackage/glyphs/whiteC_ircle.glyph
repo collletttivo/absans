@@ -1,0 +1,42 @@
+{
+glyphname = whiteCircle;
+layers = (
+{
+anchors = (
+{
+name = circled;
+pos = (434,161);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+identifier = ID0x7f7b568d28c0;
+strokeHeight = 35;
+strokeWidth = 40;
+};
+closed = 1;
+nodes = (
+(637,-8,o),
+(796,151,o),
+(796,353,cs),
+(796,555,o),
+(637,713,o),
+(434,713,cs),
+(231,713,o),
+(72,555,o),
+(72,353,cs),
+(72,151,o),
+(231,-8,o),
+(434,-8,cs)
+);
+}
+);
+width = 868;
+}
+);
+metricLeft = O;
+metricRight = "=|";
+unicode = 9675;
+}

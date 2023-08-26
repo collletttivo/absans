@@ -1,0 +1,59 @@
+{
+glyphname = pi;
+kernLeft = KO_pi;
+kernRight = KO_t;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(39,500,l),
+(39,441,l),
+(589,441,l),
+(589,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(456,500,l),
+(384,500,l),
+(384,123,ls),
+(384,43,o),
+(428,-6,o),
+(498,-6,cs),
+(522,-6,o),
+(557,3,o),
+(582,25,c),
+(582,114,l),
+(557,67,o),
+(530,58,o),
+(506,58,cs),
+(474,58,o),
+(456,81,o),
+(456,133,cs)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x584c96160;
+};
+closed = 1;
+nodes = (
+(234,500,l),
+(162,500,l),
+(162,0,l),
+(234,0,l)
+);
+}
+);
+width = 619;
+}
+);
+metricLeft = t;
+metricRight = t;
+unicode = 960;
+}

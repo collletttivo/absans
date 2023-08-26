@@ -1,0 +1,132 @@
+{
+glyphname = trademark;
+kernLeft = KO_trademark;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (352,0);
+},
+{
+name = center;
+pos = (352,350);
+},
+{
+name = top;
+pos = (352,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(139,704,l),
+(139,422,l),
+(175,422,l),
+(175,704,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(20,704,l),
+(20,673,l),
+(299,673,l),
+(299,704,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(585,658,l),
+(585,422,l),
+(621,422,l),
+(621,704,l),
+(575,704,l),
+(473,528,l),
+(493,528,l),
+(392,704,l),
+(344,704,l),
+(344,422,l),
+(380,422,l),
+(380,658,l),
+(483,484,l)
+);
+}
+);
+width = 706;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (359,0);
+},
+{
+name = center;
+pos = (359,350);
+},
+{
+name = top;
+pos = (359,700);
+}
+);
+associatedMasterId = m01;
+layerId = "521BE222-7643-40A1-8C81-E8BEB6F7EB64";
+name = "6 Mar 23 at 17:18";
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b65caa370;
+};
+closed = 1;
+nodes = (
+(206,700,l),
+(206,299,l),
+(246,299,l),
+(246,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(31,700,l),
+(31,667,l),
+(428,667,l),
+(428,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(830,659,l),
+(830,299,l),
+(870,299,l),
+(870,700,l),
+(811,700,l),
+(667,454,l),
+(682,454,l),
+(539,700,l),
+(477,700,l),
+(477,299,l),
+(517,299,l),
+(517,659,l),
+(674,396,l)
+);
+}
+);
+width = 955;
+}
+);
+metricLeft = T;
+metricRight = H;
+unicode = 8482;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+};
+};
+}

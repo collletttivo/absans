@@ -1,0 +1,37 @@
+{
+glyphname = quoteleft;
+kernLeft = KO_quoteright;
+kernRight = KO_quotedbl;
+layers = (
+{
+anchors = (
+{
+name = "#entry";
+pos = (110,0);
+},
+{
+name = "#exit";
+pos = (290,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (294,553);
+ref = comma;
+}
+);
+width = 294;
+}
+);
+metricLeft = "=|comma";
+metricRight = "=|comma";
+unicode = 8216;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

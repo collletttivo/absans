@@ -1,0 +1,21 @@
+{
+glyphname = Hdotbelow;
+kernLeft = KO_H;
+kernRight = KO_H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (240,0);
+ref = dotbelowcomb;
+}
+);
+width = 755;
+}
+);
+unicode = 7716;
+}

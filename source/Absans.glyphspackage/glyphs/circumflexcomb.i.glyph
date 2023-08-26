@@ -1,0 +1,43 @@
+{
+export = 0;
+glyphname = circumflexcomb.i;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (159,500);
+},
+{
+name = top;
+pos = (159,760);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(300,570,l),
+(183,741,l),
+(134,741,l),
+(17,570,l),
+(92,570,l),
+(176,704,l),
+(140,704,l),
+(224,570,l)
+);
+}
+);
+width = 317;
+}
+);
+metricLeft = V;
+metricRight = "=|";
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

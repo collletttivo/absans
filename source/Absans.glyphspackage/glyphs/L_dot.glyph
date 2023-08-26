@@ -1,0 +1,22 @@
+{
+glyphname = Ldot;
+kernLeft = KO_H;
+kernRight = KO_A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = 1;
+pos = (568,0);
+ref = periodcentered.loclCAT.case;
+}
+);
+width = 570;
+}
+);
+unicode = 319;
+}

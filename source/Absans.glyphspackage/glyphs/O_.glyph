@@ -1,0 +1,75 @@
+{
+glyphname = O;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (414,0);
+},
+{
+name = center;
+pos = (414,350);
+},
+{
+name = ogonek;
+pos = (744,10);
+},
+{
+name = top;
+pos = (414,700);
+},
+{
+name = topleft;
+pos = (22,700);
+},
+{
+name = topright;
+pos = (806,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(634,-8,o),
+(776,143,o),
+(776,353,cs),
+(776,562,o),
+(634,713,o),
+(414,713,cs),
+(194,713,o),
+(52,562,o),
+(52,353,cs),
+(52,143,o),
+(194,-8,o),
+(414,-8,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(247,57,o),
+(127,181,o),
+(127,353,cs),
+(127,525,o),
+(247,648,o),
+(414,648,cs),
+(581,648,o),
+(701,525,o),
+(701,353,cs),
+(701,181,o),
+(581,57,o),
+(414,57,cs)
+);
+}
+);
+width = 828;
+}
+);
+metricRight = "=|";
+unicode = 79;
+}

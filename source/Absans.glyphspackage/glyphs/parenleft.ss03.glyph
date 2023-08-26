@@ -1,0 +1,48 @@
+{
+glyphname = parenleft.ss03;
+kernRight = KO_parenleft.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 35;
+strokeWidth = 40;
+};
+closed = 0;
+nodes = (
+(560,800,l),
+(484,800,o),
+(424,754,o),
+(400,686,c),
+(333,716,o),
+(257,706,o),
+(206,654,c),
+(151,600,o),
+(142,525,o),
+(173,459,c),
+(104,434,o),
+(58,374,o),
+(58,300,c),
+(58,226,o),
+(104,166,o),
+(173,141,c),
+(142,75,o),
+(152,0,o),
+(206,-52,c),
+(257,-105,o),
+(333,-115,o),
+(399,-86,c),
+(424,-154,o),
+(484,-200,o),
+(560,-200,c)
+);
+}
+);
+width = 598;
+}
+);
+metricLeft = parenleft;
+metricRight = parenleft;
+}

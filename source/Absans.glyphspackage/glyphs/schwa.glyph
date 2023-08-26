@@ -1,0 +1,19 @@
+{
+glyphname = schwa;
+kernLeft = KO_e;
+kernRight = KO_o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (594,500);
+ref = e;
+}
+);
+width = 594;
+}
+);
+unicode = 601;
+}

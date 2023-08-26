@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = s_t.ordn;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s.ordn;
+},
+{
+pos = (406,0);
+ref = t.ordn;
+}
+);
+width = 749;
+}
+);
+}

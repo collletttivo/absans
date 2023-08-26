@@ -1,0 +1,19 @@
+{
+glyphname = two.circled.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = whiteCircle.ss03;
+},
+{
+pos = (276,161);
+ref = two.dnom;
+}
+);
+width = 913;
+}
+);
+metricRight = whiteCircle;
+}

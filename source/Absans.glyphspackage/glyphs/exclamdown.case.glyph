@@ -1,0 +1,22 @@
+{
+glyphname = exclamdown.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = exclamdown;
+}
+);
+width = 276;
+}
+);
+metricLeft = exclamdown;
+metricRight = exclamdown;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
+}

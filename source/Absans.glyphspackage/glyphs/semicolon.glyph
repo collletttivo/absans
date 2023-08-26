@@ -1,0 +1,49 @@
+{
+glyphname = semicolon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(150,0,l),
+(150,-62,o),
+(145,-100,o),
+(85,-150,c),
+(164,-150,l),
+(204,-100,o),
+(209,-65,o),
+(209,10,cs),
+(209,105,l),
+(103,105,l),
+(103,0,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b662426f0;
+};
+closed = 1;
+nodes = (
+(209,397,l),
+(209,502,l),
+(103,502,l),
+(103,397,l)
+);
+}
+);
+width = 294;
+}
+);
+metricLeft = comma;
+metricRight = comma;
+unicode = 59;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

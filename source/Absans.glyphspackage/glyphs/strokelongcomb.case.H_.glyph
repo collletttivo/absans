@@ -1,0 +1,29 @@
+{
+export = 0;
+glyphname = strokelongcomb.case.H;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (448,531);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,513,l),
+(833,513,l),
+(833,548,l),
+(60,548,l)
+);
+}
+);
+width = 893;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+}

@@ -1,0 +1,96 @@
+{
+glyphname = "parenleft-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(251,100,l),
+(251,500,l),
+(214,500,l),
+(214,100,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(50,384,l),
+(396,184,l),
+(412,213,l),
+(66,413,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(50,213,l),
+(66,184,l),
+(412,384,l),
+(396,413,l)
+);
+},
+{
+attr = {
+identifier = ID0x7f7b397749d0;
+mask = "1";
+};
+closed = 1;
+nodes = (
+(266,240,o),
+(293,267,o),
+(293,301,cs),
+(293,334,o),
+(266,361,o),
+(233,361,cs),
+(199,361,o),
+(172,334,o),
+(172,301,cs),
+(172,267,o),
+(199,240,o),
+(233,240,cs)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b39f4dea0;
+lineCapEnd = 4;
+lineCapStart = 4;
+strokeHeight = 33;
+strokeWidth = 36;
+};
+closed = 0;
+nodes = (
+(238,550,l),
+(308,693,o),
+(436,787,o),
+(587,800,c)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b39f4dea0;
+lineCapEnd = "4";
+lineCapStart = "4";
+strokeHeight = 33;
+strokeWidth = 36;
+};
+closed = 0;
+nodes = (
+(587,-200,l),
+(436,-187,o),
+(308,-93,o),
+(238,50,c)
+);
+}
+);
+width = 625;
+}
+);
+metricLeft = asterisk;
+metricRight = parenleft;
+unicode = 64830;
+}

@@ -1,0 +1,57 @@
+{
+glyphname = divide;
+kernLeft = KO_hyphen;
+kernRight = KO_plus;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,253,l),
+(513,253,l),
+(513,288,l),
+(60,288,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b6eefb5b0;
+};
+closed = 1;
+nodes = (
+(340,42,l),
+(340,147,l),
+(234,147,l),
+(234,42,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b70c0d350;
+};
+closed = 1;
+nodes = (
+(340,396,l),
+(340,501,l),
+(234,501,l),
+(234,396,l)
+);
+}
+);
+width = 573;
+}
+);
+metricLeft = minus;
+metricRight = minus;
+unicode = 247;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

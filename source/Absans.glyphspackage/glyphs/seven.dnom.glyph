@@ -1,0 +1,30 @@
+{
+glyphname = seven.dnom;
+layers = (
+{
+anchors = (
+{
+name = _circled;
+pos = (135,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(93,0,l),
+(275,360,l),
+(275,390,l),
+(11,390,l),
+(11,354,l),
+(254,354,l),
+(243,375,l),
+(52,0,l)
+);
+}
+);
+width = 276;
+}
+);
+}

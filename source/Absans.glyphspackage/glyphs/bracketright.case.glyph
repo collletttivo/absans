@@ -1,0 +1,23 @@
+{
+glyphname = bracketright.case;
+kernLeft = KO_bracketright.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,50);
+ref = bracketright;
+}
+);
+width = 431;
+}
+);
+metricLeft = "=|bracketleft";
+metricRight = "=|bracketleft";
+userData = {
+KernOnSpecialSpacing = {
+R = NoKerning;
+};
+};
+}

@@ -1,0 +1,23 @@
+{
+glyphname = one.blackCircled.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = blackSquare;
+},
+{
+attr = {
+reversePaths = 1;
+};
+pos = (320,158);
+ref = one.dnom;
+}
+);
+width = 870;
+}
+);
+metricLeft = whiteSquare;
+metricRight = whiteSquare;
+}

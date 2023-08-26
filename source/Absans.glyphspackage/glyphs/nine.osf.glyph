@@ -1,0 +1,17 @@
+{
+glyphname = nine.osf;
+kernRight = KO_nine.osf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (551,500);
+ref = six.osf;
+}
+);
+width = 551;
+}
+);
+}

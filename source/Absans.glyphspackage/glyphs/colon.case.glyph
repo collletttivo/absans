@@ -1,0 +1,23 @@
+{
+glyphname = colon.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,99);
+ref = colon;
+}
+);
+width = 276;
+}
+);
+metricLeft = period;
+metricRight = period;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

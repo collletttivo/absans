@@ -1,0 +1,26 @@
+{
+glyphname = one.osf;
+kernLeft = KO_one.osf;
+kernRight = KO_one.osf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,0,l),
+(220,500,l),
+(155,500,l),
+(23,380,l),
+(23,301,l),
+(178,441,l),
+(148,454,l),
+(148,0,l)
+);
+}
+);
+width = 305;
+}
+);
+}

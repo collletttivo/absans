@@ -1,0 +1,18 @@
+{
+glyphname = eightsuperior;
+kernLeft = KO_eightsuperior;
+kernRight = KO_threesuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = eight.numr;
+}
+);
+width = 374;
+}
+);
+unicode = 8312;
+}

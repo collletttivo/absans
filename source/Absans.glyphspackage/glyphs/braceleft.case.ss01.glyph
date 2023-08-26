@@ -1,0 +1,17 @@
+{
+glyphname = braceleft.case.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,52);
+ref = braceleft.ss01;
+}
+);
+width = 520;
+}
+);
+metricLeft = braceleft;
+metricRight = braceleft;
+}

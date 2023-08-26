@@ -1,0 +1,17 @@
+{
+glyphname = sevensuperior;
+kernLeft = KO_sevensuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = seven.numr;
+}
+);
+width = 276;
+}
+);
+unicode = 8311;
+}

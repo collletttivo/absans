@@ -1,0 +1,57 @@
+{
+glyphname = question;
+kernLeft = KO_question;
+kernRight = KO_question;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(241,182,l),
+(241,334,o),
+(441,357,o),
+(441,531,cs),
+(441,640,o),
+(361,712,o),
+(241,712,cs),
+(130,712,o),
+(42,644,o),
+(22,543,c),
+(92,460,l),
+(87,575,o),
+(147,651,o),
+(241,651,cs),
+(316,651,o),
+(366,603,o),
+(366,531,cs),
+(366,386,o),
+(187,377,o),
+(201,182,c)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b662872c0;
+};
+closed = 1;
+nodes = (
+(277,0,l),
+(277,105,l),
+(171,105,l),
+(171,0,l)
+);
+}
+);
+width = 470;
+}
+);
+unicode = 63;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+};
+};
+}

@@ -1,0 +1,17 @@
+{
+glyphname = parenrightinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (331,0);
+ref = parenleftinferior;
+scale = (-1,1);
+}
+);
+width = 331;
+}
+);
+unicode = 8334;
+}

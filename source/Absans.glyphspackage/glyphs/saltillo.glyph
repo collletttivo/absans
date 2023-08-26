@@ -1,0 +1,17 @@
+{
+glyphname = saltillo;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quotesingle;
+}
+);
+width = 265;
+}
+);
+metricLeft = quotesingle;
+metricRight = quotesingle;
+unicode = 42892;
+}

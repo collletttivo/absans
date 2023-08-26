@@ -1,0 +1,34 @@
+{
+export = 0;
+glyphname = slashlongcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (264,250);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b65e29660;
+};
+closed = 1;
+nodes = (
+(70,-10,l),
+(507,510,l),
+(457,510,l),
+(20,-10,l)
+);
+}
+);
+width = 527;
+}
+);
+metricLeft = slash;
+metricRight = slash;
+unicode = 824;
+}

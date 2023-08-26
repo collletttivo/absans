@@ -1,0 +1,36 @@
+{
+export = 0;
+glyphname = slashshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (197,400);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,307,l),
+(333,447,l),
+(333,510,l),
+(60,370,l)
+);
+}
+);
+width = 393;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 823;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

@@ -1,0 +1,22 @@
+{
+glyphname = questiondown.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,206);
+ref = questiondown;
+}
+);
+width = 470;
+}
+);
+metricLeft = questiondown;
+metricRight = questiondown;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
+}

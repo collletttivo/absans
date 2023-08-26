@@ -1,0 +1,21 @@
+{
+glyphname = nacute;
+kernLeft = KO_n;
+kernRight = KO_n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (199,0);
+ref = acutecomb;
+}
+);
+width = 558;
+}
+);
+unicode = 324;
+}

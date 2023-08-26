@@ -1,0 +1,22 @@
+{
+glyphname = greaterequal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,70);
+ref = greater;
+},
+{
+pos = (0,-201);
+ref = minus;
+}
+);
+width = 573;
+}
+);
+metricLeft = minus;
+metricRight = minus;
+unicode = 8805;
+}

@@ -1,0 +1,58 @@
+{
+glyphname = numbersign;
+kernRight = KO_numbersign;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b662ffec0;
+};
+closed = 1;
+nodes = (
+(147,0,l),
+(287,700,l),
+(252,700,l),
+(112,0,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b662ffec0;
+};
+closed = 1;
+nodes = (
+(372,0,l),
+(512,700,l),
+(477,700,l),
+(337,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(24,226,l),
+(577,226,l),
+(577,256,l),
+(24,256,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(57,462,l),
+(610,462,l),
+(610,492,l),
+(57,492,l)
+);
+}
+);
+width = 634;
+}
+);
+metricRight = "=|";
+unicode = 35;
+}

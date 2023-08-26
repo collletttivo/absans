@@ -1,0 +1,23 @@
+{
+color = 9;
+glyphname = d_e_s.ordn;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = d.ordn;
+},
+{
+pos = (513,0);
+ref = e.ordn;
+},
+{
+pos = (991,0);
+ref = s.ordn;
+}
+);
+width = 1397;
+}
+);
+}

@@ -1,0 +1,39 @@
+{
+glyphname = parenleft;
+kernLeft = KO_parenleft;
+kernRight = KO_parenleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b66294540;
+lineCapEnd = 4;
+lineCapStart = 4;
+strokeHeight = 35;
+strokeWidth = 40;
+};
+closed = 0;
+nodes = (
+(461,-200,l),
+(235,-180,o),
+(58,20,o),
+(58,300,cs),
+(58,580,o),
+(235,780,o),
+(461,800,c)
+);
+}
+);
+width = 499;
+}
+);
+unicode = 40;
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

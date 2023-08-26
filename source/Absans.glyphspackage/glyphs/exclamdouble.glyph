@@ -1,0 +1,22 @@
+{
+glyphname = exclamdouble;
+kernRight = KO_exclam;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = exclam;
+},
+{
+alignment = 1;
+pos = (276,0);
+ref = exclam;
+}
+);
+width = 552;
+}
+);
+unicode = 8252;
+}

@@ -1,0 +1,34 @@
+{
+glyphname = parenleftsuperior;
+kernLeft = KO_parenleftsuperior;
+kernRight = KO_hyphen.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x587fee070;
+lineCapEnd = 4;
+lineCapStart = 4;
+strokeHeight = 35;
+strokeWidth = 40;
+};
+closed = 0;
+nodes = (
+(303,393,l),
+(167,405,o),
+(60,525,o),
+(60,694,cs),
+(60,863,o),
+(167,983,o),
+(303,995,c)
+);
+}
+);
+width = 331;
+}
+);
+unicode = 8317;
+}

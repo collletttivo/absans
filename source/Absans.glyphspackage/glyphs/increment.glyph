@@ -1,0 +1,103 @@
+{
+glyphname = increment;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (303,0);
+},
+{
+name = ogonek;
+pos = (662,0);
+},
+{
+name = top;
+pos = (303,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x565fc6400;
+};
+closed = 1;
+nodes = (
+(81,0,l),
+(341,700,l),
+(302,700,l),
+(42,0,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x565fc6400;
+};
+closed = 1;
+nodes = (
+(351,700,l),
+(312,700,l),
+(572,0,l),
+(611,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(70,0,l),
+(583,0,l),
+(583,35,l),
+(70,35,l)
+);
+}
+);
+width = 653;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (323,0);
+},
+{
+name = ogonek;
+pos = (682,0);
+},
+{
+name = top;
+pos = (323,700);
+}
+);
+associatedMasterId = m01;
+layerId = "4334CE97-9C0C-4572-8134-C133EB4FCC9E";
+name = "22 Aug 23 at 15:55";
+shapes = (
+{
+closed = 1;
+nodes = (
+(271,700,l),
+(35,54,l),
+(35,0,l),
+(609,0,l),
+(609,54,l),
+(373,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(322,639,l),
+(527,65,l),
+(117,65,l)
+);
+}
+);
+width = 644;
+}
+);
+metricRight = "=|";
+unicode = 8710;
+}

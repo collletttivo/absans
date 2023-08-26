@@ -1,0 +1,20 @@
+{
+glyphname = ibreve;
+kernRight = KO_jacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-63,0);
+ref = brevecomb.i;
+}
+);
+width = 220;
+}
+);
+unicode = 301;
+}

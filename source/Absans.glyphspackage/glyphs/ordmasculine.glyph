@@ -1,0 +1,93 @@
+{
+glyphname = ordmasculine;
+kernRight = KO_ordmasculine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.ordn;
+}
+);
+width = 486;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (227,0);
+},
+{
+name = bottom_1;
+pos = (205,0);
+},
+{
+name = center;
+pos = (227,250);
+},
+{
+name = ogonek;
+pos = (485,10);
+},
+{
+name = ogonek_1;
+pos = (456,0);
+},
+{
+name = top;
+pos = (227,500);
+},
+{
+name = top_1;
+pos = (205,500);
+},
+{
+name = topright;
+pos = (529,500);
+}
+);
+associatedMasterId = m01;
+layerId = "CEE2DCCB-0413-4943-9C60-E17AACBB7100";
+name = "22 Aug 23 at 19:34";
+shapes = (
+{
+closed = 1;
+nodes = (
+(349,301,o),
+(430,388,o),
+(430,505,cs),
+(430,621,o),
+(349,708,o),
+(227,708,cs),
+(105,708,o),
+(24,621,o),
+(24,505,cs),
+(24,388,o),
+(105,301,o),
+(227,301,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(131,333,o),
+(61,404,o),
+(61,505,cs),
+(61,607,o),
+(131,677,o),
+(227,677,cs),
+(323,677,o),
+(393,607,o),
+(393,505,cs),
+(393,404,o),
+(323,333,o),
+(227,333,cs)
+);
+}
+);
+width = 454;
+}
+);
+metricRight = "=|";
+unicode = 186;
+}

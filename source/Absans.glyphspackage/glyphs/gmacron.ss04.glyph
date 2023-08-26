@@ -1,0 +1,19 @@
+{
+glyphname = gmacron.ss04;
+kernLeft = KO_egrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g.ss04;
+},
+{
+pos = (80,0);
+ref = macroncomb;
+}
+);
+width = 633;
+}
+);
+}

@@ -1,0 +1,21 @@
+{
+glyphname = ohungarumlaut;
+kernLeft = KO_egrave;
+kernRight = KO_oacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (146,0);
+ref = hungarumlautcomb;
+}
+);
+width = 604;
+}
+);
+unicode = 337;
+}

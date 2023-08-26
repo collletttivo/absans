@@ -1,0 +1,51 @@
+{
+glyphname = T;
+kernLeft = KO_T;
+kernRight = KO_T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (328,0);
+},
+{
+name = center;
+pos = (328,350);
+},
+{
+name = top;
+pos = (328,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b7e2b1730;
+};
+closed = 1;
+nodes = (
+(288,700,l),
+(288,0,l),
+(363,0,l),
+(363,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(20,700,l),
+(20,635,l),
+(645,635,l),
+(645,700,l)
+);
+}
+);
+width = 665;
+}
+);
+metricRight = "=|";
+unicode = 84;
+}

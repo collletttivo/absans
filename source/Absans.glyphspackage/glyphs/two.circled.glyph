@@ -1,0 +1,21 @@
+{
+glyphname = two.circled;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = whiteCircle;
+},
+{
+pos = (254,161);
+ref = two.dnom;
+}
+);
+width = 868;
+}
+);
+metricLeft = whiteCircle;
+metricRight = whiteCircle;
+unicode = 9313;
+}

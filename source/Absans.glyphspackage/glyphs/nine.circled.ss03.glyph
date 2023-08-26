@@ -1,0 +1,19 @@
+{
+glyphname = nine.circled.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = whiteCircle.ss03;
+},
+{
+pos = (274,161);
+ref = nine.dnom;
+}
+);
+width = 913;
+}
+);
+metricRight = whiteCircle;
+}

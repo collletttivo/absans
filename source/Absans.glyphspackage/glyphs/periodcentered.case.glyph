@@ -1,0 +1,23 @@
+{
+glyphname = periodcentered.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,88);
+ref = periodcentered;
+}
+);
+width = 276;
+}
+);
+metricLeft = period;
+metricRight = period;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

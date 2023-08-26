@@ -1,0 +1,35 @@
+{
+glyphname = guilsinglleft;
+kernLeft = KO_guillemetleft;
+kernRight = KO_guillemetleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(322,451,l),
+(60,290,l),
+(60,229,l),
+(322,68,l),
+(322,135,l),
+(85,280,l),
+(85,238,l),
+(322,383,l)
+);
+}
+);
+width = 382;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 8249;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

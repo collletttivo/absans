@@ -1,0 +1,20 @@
+{
+glyphname = Dcroat;
+kernLeft = KO_Dcroat;
+kernRight = KO_O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-30,0);
+ref = Eth;
+}
+);
+width = 764;
+}
+);
+metricRight = D;
+unicode = 272;
+}

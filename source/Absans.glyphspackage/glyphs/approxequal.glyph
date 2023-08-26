@@ -1,0 +1,28 @@
+{
+glyphname = approxequal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-100);
+ref = asciitilde;
+},
+{
+pos = (0,88);
+ref = asciitilde;
+}
+);
+width = 487;
+}
+);
+metricLeft = asciitilde;
+metricRight = asciitilde;
+unicode = 8776;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

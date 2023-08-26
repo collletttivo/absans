@@ -1,0 +1,17 @@
+{
+glyphname = leftArrow.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,79);
+ref = leftArrow;
+}
+);
+width = 713;
+}
+);
+metricLeft = "=|rightArrow";
+metricRight = hyphen;
+}

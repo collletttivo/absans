@@ -1,0 +1,19 @@
+{
+glyphname = bracketright.ss01;
+kernLeft = KO_bracketright.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (514,600);
+ref = bracketleft.ss01;
+}
+);
+width = 514;
+}
+);
+metricLeft = "=|bracketleft";
+metricRight = "=|bracketleft";
+}

@@ -1,0 +1,25 @@
+{
+glyphname = downArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (442,700);
+ref = upArrow;
+}
+);
+width = 442;
+}
+);
+metricLeft = upArrow;
+metricRight = "=|";
+unicode = 8595;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

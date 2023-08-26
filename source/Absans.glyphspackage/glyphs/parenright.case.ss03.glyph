@@ -1,0 +1,18 @@
+{
+glyphname = parenright.case.ss03;
+kernLeft = KO_parenright.case.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,50);
+ref = parenright.ss03;
+}
+);
+width = 598;
+}
+);
+metricLeft = "=|parenleft.ss03";
+metricRight = "=|parenleft.ss03";
+}

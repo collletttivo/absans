@@ -1,0 +1,51 @@
+{
+glyphname = dagger;
+kernLeft = KO_dagger;
+kernRight = KO_dagger;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (222,0);
+},
+{
+name = center;
+pos = (222,250);
+},
+{
+name = top;
+pos = (222,500);
+},
+{
+name = topright;
+pos = (403,800);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(226,167,l),
+(226,710,l),
+(189,710,l),
+(189,167,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(30,521,l),
+(383,521,l),
+(383,554,l),
+(30,554,l)
+);
+}
+);
+width = 413;
+}
+);
+metricRight = "=|";
+unicode = 8224;
+}

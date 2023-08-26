@@ -1,0 +1,22 @@
+{
+glyphname = eightinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-200);
+ref = eight.dnom;
+}
+);
+width = 374;
+}
+);
+unicode = 8328;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

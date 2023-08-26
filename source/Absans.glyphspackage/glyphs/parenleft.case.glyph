@@ -1,0 +1,23 @@
+{
+glyphname = parenleft.case;
+kernRight = KO_parenleft.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,50);
+ref = parenleft;
+}
+);
+width = 499;
+}
+);
+metricLeft = parenleft;
+metricRight = parenleft;
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

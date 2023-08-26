@@ -1,0 +1,58 @@
+{
+glyphname = lozenge;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = "4";
+lineCapStart = "4";
+strokeHeight = 20;
+strokeWidth = 37;
+};
+closed = 1;
+nodes = (
+(261,0,l),
+(257,0,l),
+(75,346,l),
+(257,692,l),
+(261,692,l),
+(443,346,l)
+);
+}
+);
+width = 518;
+},
+{
+associatedMasterId = m01;
+layerId = "026AFF15-A1C6-4238-AD17-C12B99EE6FF3";
+name = "22 Aug 23 at 15:56";
+shapes = (
+{
+closed = 1;
+nodes = (
+(196,0,l),
+(300,0,l),
+(465,349,l),
+(301,700,l),
+(197,700,l),
+(32,351,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(248,644,l),
+(389,349,l),
+(249,56,l),
+(108,351,l)
+);
+}
+);
+width = 497;
+}
+);
+metricRight = "=|";
+unicode = 9674;
+}

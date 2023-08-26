@@ -1,0 +1,23 @@
+{
+glyphname = five.blackCircled.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = blackSquare;
+},
+{
+attr = {
+reversePaths = 1;
+};
+pos = (252,158);
+ref = five.dnom;
+}
+);
+width = 870;
+}
+);
+metricLeft = whiteSquare;
+metricRight = whiteSquare;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = four.numr;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,309);
+ref = four.dnom;
+}
+);
+width = 369;
+}
+);
+}

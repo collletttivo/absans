@@ -1,0 +1,15 @@
+{
+glyphname = five.numr;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,309);
+ref = five.dnom;
+}
+);
+width = 360;
+}
+);
+}

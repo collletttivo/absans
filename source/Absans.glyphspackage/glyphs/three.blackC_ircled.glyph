@@ -1,0 +1,24 @@
+{
+glyphname = three.blackCircled;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = blackCircle;
+},
+{
+attr = {
+reversePaths = 1;
+};
+pos = (249,158);
+ref = three.dnom;
+}
+);
+width = 868;
+}
+);
+metricLeft = whiteCircle;
+metricRight = whiteCircle;
+unicode = 10104;
+}

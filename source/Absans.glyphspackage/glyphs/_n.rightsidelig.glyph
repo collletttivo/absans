@@ -1,0 +1,45 @@
+{
+export = 0;
+glyphname = _n.rightsidelig;
+layers = (
+{
+anchors = (
+{
+name = "#entry";
+pos = (100,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x4ea5a3810;
+};
+closed = 1;
+nodes = (
+(324,456,o),
+(379,405,o),
+(379,306,cs),
+(379,0,l),
+(452,0,l),
+(452,319,ls),
+(452,439,o),
+(386,512,o),
+(270,512,cs),
+(141,512,o),
+(79,421,o),
+(74,292,c),
+(100,292,l),
+(107,398,o),
+(163,456,o),
+(247,456,cs)
+);
+}
+);
+width = 512;
+}
+);
+metricLeft = n;
+metricRight = n;
+}

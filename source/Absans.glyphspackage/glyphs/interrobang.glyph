@@ -1,0 +1,69 @@
+{
+glyphname = interrobang;
+kernLeft = KO_interrobang;
+kernRight = KO_question;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(251,182,l),
+(251,334,o),
+(451,357,o),
+(451,531,cs),
+(451,640,o),
+(369,712,o),
+(246,712,cs),
+(132,712,o),
+(42,644,o),
+(22,543,c),
+(92,460,l),
+(87,575,o),
+(149,651,o),
+(246,651,cs),
+(324,651,o),
+(376,603,o),
+(376,531,cs),
+(376,386,o),
+(208,377,o),
+(221,182,c)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x58c64d240;
+};
+closed = 1;
+nodes = (
+(287,0,l),
+(287,105,l),
+(181,105,l),
+(181,0,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x583289820;
+};
+closed = 1;
+nodes = (
+(251,182,l),
+(273,461,l),
+(273,560,l),
+(193,560,l),
+(193,461,l),
+(211,182,l)
+);
+}
+);
+width = 480;
+}
+);
+metricLeft = question;
+metricRight = question;
+unicode = 8253;
+}

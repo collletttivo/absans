@@ -1,0 +1,124 @@
+{
+glyphname = dottedCircle;
+layers = (
+{
+anchors = (
+{
+name = circled;
+pos = (430,161);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeHeight = 35;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(148,582,l),
+(105,529,o),
+(77,464,o),
+(70,391,c)
+);
+},
+{
+attr = {
+strokeHeight = 35;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(70,313,l),
+(78,240,o),
+(107,173,o),
+(151,120,c)
+);
+},
+{
+attr = {
+strokeHeight = 35;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(391,711,l),
+(321,704,o),
+(257,677,o),
+(205,637,c)
+);
+},
+{
+attr = {
+strokeHeight = 35;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(207,66,l),
+(259,27,o),
+(322,1,o),
+(391,-6,c)
+);
+},
+{
+attr = {
+strokeHeight = 35;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(469,-6,l),
+(541,1,o),
+(606,29,o),
+(659,71,c)
+);
+},
+{
+attr = {
+strokeHeight = 35;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(662,631,l),
+(609,675,o),
+(543,704,o),
+(469,711,c)
+);
+},
+{
+attr = {
+strokeHeight = 35;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(715,127,l),
+(756,179,o),
+(782,243,o),
+(790,313,c)
+);
+},
+{
+attr = {
+strokeHeight = 35;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(790,391,l),
+(783,461,o),
+(757,524,o),
+(717,576,c)
+);
+}
+);
+width = 860;
+}
+);
+metricLeft = O;
+metricRight = "=|";
+unicode = 9676;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = racute;
+kernLeft = KO_n;
+kernRight = KO_r;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (144,0);
+ref = acutecomb;
+}
+);
+width = 455;
+}
+);
+unicode = 341;
+}

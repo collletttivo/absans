@@ -1,0 +1,67 @@
+{
+glyphname = IJ;
+kernRight = KO_U;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (348,0);
+},
+{
+name = ogonek;
+pos = (-37,0);
+},
+{
+name = top;
+pos = (348,700);
+},
+{
+name = topleft;
+pos = (-205,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b6b1df3b0;
+};
+closed = 1;
+nodes = (
+(155,370,l),
+(155,700,l),
+(80,700,l),
+(80,370,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(492,-10,o),
+(590,91,o),
+(590,257,cs),
+(590,700,l),
+(515,700,l),
+(515,257,ls),
+(515,132,o),
+(446,56,o),
+(333,56,cs),
+(240,56,o),
+(151,116,o),
+(155,266,c),
+(85,183,l),
+(107,67,o),
+(192,-10,o),
+(333,-10,cs)
+);
+}
+);
+width = 670;
+}
+);
+metricLeft = U;
+metricRight = U;
+unicode = 306;
+}

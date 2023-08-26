@@ -1,0 +1,29 @@
+{
+export = 0;
+glyphname = slashshortcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (390,350);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,270,l),
+(413,410,l),
+(413,448,l),
+(60,308,l)
+);
+}
+);
+width = 473;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = f_f_k.liga;
+kernLeft = KO_f;
+kernRight = KO_f_k.liga;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = _f.rightsidelig;
+},
+{
+pos = (333,0);
+ref = f_k.liga;
+}
+);
+width = 1253;
+}
+);
+metricLeft = f;
+metricRight = k;
+}

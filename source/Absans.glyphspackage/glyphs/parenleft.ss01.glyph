@@ -1,0 +1,79 @@
+{
+glyphname = parenleft.ss01;
+kernLeft = KO_parenleft;
+kernRight = KO_parenleft.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b6e12b510;
+lineCapEnd = 4;
+lineCapStart = 4;
+strokeHeight = 33;
+strokeWidth = 40;
+};
+closed = 1;
+nodes = (
+(235,780,o),
+(58,580,o),
+(58,300,cs),
+(58,20,o),
+(235,-180,o),
+(501,-200,c),
+(332,-180,o),
+(232,20,o),
+(232,300,cs),
+(232,580,o),
+(332,780,o),
+(501,800,c)
+);
+}
+);
+width = 541;
+},
+{
+associatedMasterId = m01;
+layerId = "EFEB18F0-E11C-4BFE-BD73-C953F3C3FCBA";
+name = "6 Mar 23 at 05:21";
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b711e9e00;
+lineCapEnd = "4";
+lineCapStart = "4";
+strokeHeight = 33;
+strokeWidth = 40;
+};
+closed = 0;
+nodes = (
+(529,-207,l),
+(290,-207,ls),
+(162,-207,o),
+(58,-103,o),
+(58,25,cs),
+(58,153,o),
+(162,257,o),
+(290,257,cs),
+(399,257,l),
+(399,342,l),
+(290,342,ls),
+(162,342,o),
+(58,446,o),
+(58,574,cs),
+(58,702,o),
+(162,806,o),
+(290,806,cs),
+(529,806,l)
+);
+}
+);
+width = 540;
+}
+);
+metricLeft = parenleft;
+metricRight = parenleft;
+}

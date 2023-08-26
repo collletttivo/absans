@@ -1,0 +1,37 @@
+{
+color = 1;
+glyphname = caroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (203,700);
+},
+{
+name = top;
+pos = (203,911);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(17,921,l),
+(178,773,l),
+(227,773,l),
+(388,921,l),
+(294,921,l),
+(176,810,l),
+(230,810,l),
+(112,921,l)
+);
+}
+);
+width = 405;
+}
+);
+metricLeft = "=|circumflexcomb";
+metricRight = "=|";
+}

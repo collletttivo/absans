@@ -1,0 +1,19 @@
+{
+glyphname = nine;
+kernLeft = KO_nine;
+kernRight = KO_zero;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (633,702);
+ref = six;
+}
+);
+width = 633;
+}
+);
+unicode = 57;
+}

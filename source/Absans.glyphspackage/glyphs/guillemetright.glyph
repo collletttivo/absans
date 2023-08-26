@@ -1,0 +1,27 @@
+{
+glyphname = guillemetright;
+kernLeft = KO_guillemetright;
+kernRight = KO_guillemetright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (642,519);
+ref = guillemetleft;
+}
+);
+width = 642;
+}
+);
+metricLeft = "=|guilsinglleft";
+metricRight = "=|guilsinglleft";
+unicode = 187;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

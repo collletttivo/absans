@@ -1,0 +1,17 @@
+{
+glyphname = periodcentered.loclCAT;
+kernRight = KO_exclam;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-65,100);
+ref = periodcentered;
+}
+);
+width = 146;
+}
+);
+metricRight = "=|";
+}

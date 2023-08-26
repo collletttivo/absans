@@ -1,0 +1,17 @@
+{
+glyphname = lessequal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (573,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 573;
+}
+);
+unicode = 8804;
+}

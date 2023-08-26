@@ -1,0 +1,20 @@
+{
+glyphname = gcaron;
+kernLeft = KO_g;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = _g.lowear;
+},
+{
+pos = (105,0);
+ref = caroncomb;
+}
+);
+width = 615;
+}
+);
+unicode = 487;
+}

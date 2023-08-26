@@ -1,0 +1,55 @@
+{
+export = 0;
+glyphname = tildecomb.i;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (205,500);
+},
+{
+name = top;
+pos = (205,720);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(182,666,o),
+(192,591,o),
+(272,591,cs),
+(338,591,o),
+(380,642,o),
+(367,720,c),
+(308,720,l),
+(318,670,o),
+(299,645,o),
+(273,645,cs),
+(227,645,o),
+(217,720,o),
+(137,720,cs),
+(71,720,o),
+(29,669,o),
+(42,591,c),
+(101,591,l),
+(91,641,o),
+(110,666,o),
+(136,666,cs)
+);
+}
+);
+width = 409;
+}
+);
+metricLeft = tildecomb;
+metricRight = "=|";
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

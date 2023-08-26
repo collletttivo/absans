@@ -1,0 +1,23 @@
+{
+glyphname = lslash;
+kernLeft = KO_lslash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (46,0);
+ref = l;
+},
+{
+pos = (-40,0);
+ref = slashshortcomb;
+}
+);
+width = 313;
+}
+);
+metricRight = "=|";
+unicode = 322;
+}

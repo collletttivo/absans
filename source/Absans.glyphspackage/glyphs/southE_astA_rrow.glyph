@@ -1,0 +1,25 @@
+{
+glyphname = southEastArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,700);
+ref = northEastArrow;
+scale = (1,-1);
+}
+);
+width = 510;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 8600;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

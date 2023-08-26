@@ -1,0 +1,25 @@
+{
+glyphname = underscore;
+kernLeft = KO_underscore;
+kernRight = KO_underscore;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-338);
+ref = endash;
+}
+);
+width = 573;
+}
+);
+metricRight = "=|";
+unicode = 95;
+userData = {
+KernOnSpecialSpacing = {
+L = underscore;
+R = underscore;
+};
+};
+}

@@ -1,0 +1,26 @@
+{
+glyphname = backslash;
+kernRight = KO_backslash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (480,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 480;
+}
+);
+metricLeft = "=|slash";
+metricRight = "=|";
+unicode = 92;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

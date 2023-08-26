@@ -1,0 +1,57 @@
+{
+glyphname = braceleft;
+kernRight = KO_braceleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 4;
+lineCapStart = 4;
+strokeHeight = 35;
+strokeWidth = 40;
+};
+closed = 0;
+nodes = (
+(435,-182,l),
+(248,-204,o),
+(116,-88,o),
+(116,108,cs),
+(116,265,o),
+(200,392,o),
+(313,392,cs),
+(374,392,o),
+(415,355,o),
+(415,303,cs),
+(415,251,o),
+(374,213,o),
+(312,213,cs),
+(200,213,o),
+(116,340,o),
+(116,497,cs),
+(116,693,o),
+(247,809,o),
+(435,786,c)
+);
+},
+{
+attr = {
+strokeHeight = 35;
+};
+closed = 0;
+nodes = (
+(435,-182,l)
+);
+}
+);
+width = 520;
+}
+);
+unicode = 123;
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

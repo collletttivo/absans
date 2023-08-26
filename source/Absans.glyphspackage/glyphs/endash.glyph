@@ -1,0 +1,31 @@
+{
+glyphname = endash;
+kernLeft = KO_hyphen;
+kernRight = KO_hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,253,l),
+(513,253,l),
+(513,288,l),
+(60,288,l)
+);
+}
+);
+width = 573;
+}
+);
+metricLeft = "=hyphen";
+metricRight = "=|";
+unicode = 8211;
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
+}

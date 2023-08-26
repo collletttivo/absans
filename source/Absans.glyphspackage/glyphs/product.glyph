@@ -1,0 +1,45 @@
+{
+glyphname = product;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (228,0);
+},
+{
+name = center;
+pos = (228,350);
+},
+{
+name = top;
+pos = (228,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(20,700,l),
+(20,635,l),
+(188,635,l),
+(188,0,l),
+(263,0,l),
+(263,635,l),
+(502,635,l),
+(502,0,l),
+(577,0,l),
+(577,635,l),
+(745,635,l),
+(745,700,l)
+);
+}
+);
+width = 765;
+}
+);
+metricLeft = T;
+metricRight = T;
+unicode = 8719;
+}

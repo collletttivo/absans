@@ -1,0 +1,23 @@
+{
+glyphname = oneinferior;
+kernRight = KO_four.osf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-200);
+ref = one.dnom;
+}
+);
+width = 209;
+}
+);
+unicode = 8321;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

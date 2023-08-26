@@ -1,0 +1,23 @@
+{
+glyphname = f_lcaron.liga;
+kernLeft = KO_f;
+kernRight = KO_f_lcaron.liga;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = fl;
+},
+{
+pos = (515,0);
+ref = caroncomb.alt;
+}
+);
+width = 724;
+}
+);
+metricLeft = f;
+metricRight = lcaron;
+}

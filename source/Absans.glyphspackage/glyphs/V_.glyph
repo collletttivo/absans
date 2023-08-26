@@ -1,0 +1,42 @@
+{
+glyphname = V;
+kernLeft = KO_V;
+kernRight = KO_V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b7dba1330;
+};
+closed = 1;
+nodes = (
+(17,700,l),
+(307,0,l),
+(387,0,l),
+(99,700,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b7dba1330;
+};
+closed = 1;
+nodes = (
+(621,700,l),
+(333,0,l),
+(411,0,l),
+(701,700,l)
+);
+}
+);
+width = 718;
+}
+);
+metricLeft = "=|A";
+metricRight = "=|";
+unicode = 86;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = at.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,94);
+ref = at;
+}
+);
+width = 888;
+}
+);
+metricLeft = at;
+metricRight = at;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
+}

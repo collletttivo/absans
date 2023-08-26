@@ -1,0 +1,71 @@
+{
+glyphname = radical;
+kernRight = KO_radical;
+layers = (
+{
+background = {
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b6e5af090;
+};
+closed = 1;
+nodes = (
+(28,500,l),
+(187,0,l),
+(225,0,l),
+(67,500,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b6e5af090;
+};
+closed = 1;
+nodes = (
+(416,700,l),
+(193,0,l),
+(229,0,l),
+(454,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(430,665,l),
+(763,665,l),
+(763,700,l),
+(430,700,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 4;
+lineCapStart = 4;
+strokeHeight = 35;
+strokePos = 0;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(47,505,l),
+(207,30,l),
+(208,30,l),
+(438,703,l),
+(765,703,l)
+);
+}
+);
+width = 785;
+}
+);
+metricLeft = v;
+metricRight = T;
+unicode = 8730;
+}

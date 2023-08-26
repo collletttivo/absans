@@ -1,0 +1,25 @@
+{
+glyphname = hyphen.case;
+kernLeft = KO_endash.case;
+kernRight = KO_hyphen.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,80);
+ref = hyphen;
+}
+);
+width = 473;
+}
+);
+metricLeft = hyphen;
+metricRight = "=|";
+userData = {
+KernOnSpecialSpacing = {
+L = hyphen;
+R = hyphen;
+};
+};
+}

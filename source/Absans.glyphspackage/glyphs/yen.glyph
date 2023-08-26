@@ -1,0 +1,66 @@
+{
+glyphname = yen;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (337,0);
+},
+{
+name = top;
+pos = (337,700);
+},
+{
+name = topleft;
+pos = (-17,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(45,700,l),
+(300,334,l),
+(300,0,l),
+(375,0,l),
+(375,335,l),
+(629,700,l),
+(544,700,l),
+(303,347,l),
+(373,347,l),
+(132,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(81,305,l),
+(594,305,l),
+(594,340,l),
+(81,340,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(81,195,l),
+(594,195,l),
+(594,230,l),
+(81,230,l)
+);
+}
+);
+width = 674;
+}
+);
+metricRight = "=|";
+unicode = 165;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
+}

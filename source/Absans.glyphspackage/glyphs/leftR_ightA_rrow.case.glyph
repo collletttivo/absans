@@ -1,0 +1,17 @@
+{
+glyphname = leftRightArrow.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,79);
+ref = leftRightArrow;
+}
+);
+width = 844;
+}
+);
+metricLeft = leftArrow;
+metricRight = rightArrow;
+}

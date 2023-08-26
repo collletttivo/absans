@@ -1,0 +1,22 @@
+{
+glyphname = hbar;
+kernRight = KO_n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = h;
+},
+{
+pos = (-83,0);
+ref = strokeshortcomb;
+}
+);
+width = 559;
+}
+);
+metricRight = n;
+unicode = 295;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = blackCircle;
+layers = (
+{
+anchors = (
+{
+name = circled;
+pos = (434,158);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(649,-24,o),
+(816,143,o),
+(816,353,c),
+(816,563,o),
+(649,730,o),
+(434,730,c),
+(219,730,o),
+(52,563,o),
+(52,353,c),
+(52,143,o),
+(219,-24,o),
+(434,-24,c)
+);
+}
+);
+width = 868;
+}
+);
+metricLeft = O;
+metricRight = "=|";
+unicode = 9679;
+}

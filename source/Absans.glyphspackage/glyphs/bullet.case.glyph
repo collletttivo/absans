@@ -1,0 +1,23 @@
+{
+glyphname = bullet.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,87);
+ref = bullet;
+}
+);
+width = 349;
+}
+);
+metricLeft = bullet;
+metricRight = "=|";
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

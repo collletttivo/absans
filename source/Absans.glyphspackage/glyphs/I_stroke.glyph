@@ -1,0 +1,22 @@
+{
+glyphname = Istroke;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (28,0);
+ref = I;
+},
+{
+pos = (-57,0);
+ref = strokeshortcomb.case.I;
+}
+);
+width = 299;
+}
+);
+metricRight = "=|";
+unicode = 407;
+}

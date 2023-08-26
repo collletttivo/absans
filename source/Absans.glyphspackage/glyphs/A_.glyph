@@ -1,0 +1,68 @@
+{
+glyphname = A;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (379,0);
+},
+{
+name = ogonek;
+pos = (738,0);
+},
+{
+name = top;
+pos = (379,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b90ceb000;
+};
+closed = 1;
+nodes = (
+(741,0,l),
+(431,700,l),
+(351,700,l),
+(659,0,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b90ceb000;
+};
+closed = 1;
+nodes = (
+(97,0,l),
+(405,700,l),
+(327,700,l),
+(17,0,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b90ceb000;
+};
+closed = 1;
+nodes = (
+(578,304,l),
+(568,369,l),
+(190,369,l),
+(180,304,l)
+);
+}
+);
+width = 758;
+}
+);
+metricRight = "=|";
+unicode = 65;
+}

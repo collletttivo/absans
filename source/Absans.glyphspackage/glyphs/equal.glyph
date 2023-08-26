@@ -1,0 +1,40 @@
+{
+glyphname = equal;
+kernLeft = KO_equal;
+kernRight = KO_equal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,143,l),
+(513,143,l),
+(513,178,l),
+(60,178,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(60,363,l),
+(513,363,l),
+(513,398,l),
+(60,398,l)
+);
+}
+);
+width = 573;
+}
+);
+metricLeft = minus;
+metricRight = minus;
+unicode = 61;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

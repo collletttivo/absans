@@ -1,0 +1,18 @@
+{
+glyphname = f_l;
+kernLeft = KO_f;
+kernRight = KO_f_i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = fl;
+}
+);
+width = 614;
+}
+);
+metricLeft = f;
+metricRight = l;
+}

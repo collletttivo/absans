@@ -1,0 +1,19 @@
+{
+glyphname = slash.case;
+kernLeft = KO_slash.case;
+kernRight = KO_slash.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,50);
+ref = slash;
+}
+);
+width = 480;
+}
+);
+metricLeft = slash;
+metricRight = "=|";
+}

@@ -1,0 +1,25 @@
+{
+glyphname = minus;
+kernLeft = KO_hyphen;
+kernRight = KO_plus;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = endash;
+}
+);
+width = 573;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 8722;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

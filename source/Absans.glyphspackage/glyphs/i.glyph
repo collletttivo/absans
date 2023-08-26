@@ -1,0 +1,22 @@
+{
+glyphname = i;
+kernLeft = KO_i;
+kernRight = KO_i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-28,0);
+ref = dotaccentcomb;
+}
+);
+width = 220;
+}
+);
+metricRight = "=|";
+unicode = 105;
+}

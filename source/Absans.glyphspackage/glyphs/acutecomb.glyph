@@ -1,0 +1,25 @@
+{
+glyphname = acutecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (306,0);
+ref = gravecomb;
+scale = (-1,1);
+}
+);
+width = 306;
+}
+);
+metricLeft = "=|gravecomb";
+metricRight = "=|gravecomb";
+unicode = 769;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

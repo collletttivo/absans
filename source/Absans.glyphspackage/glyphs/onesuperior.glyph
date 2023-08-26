@@ -1,0 +1,18 @@
+{
+glyphname = onesuperior;
+kernLeft = KO_onesuperior;
+kernRight = KO_onesuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = one.numr;
+}
+);
+width = 209;
+}
+);
+unicode = 185;
+}

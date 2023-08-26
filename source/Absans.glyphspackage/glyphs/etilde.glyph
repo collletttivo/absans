@@ -1,0 +1,21 @@
+{
+glyphname = etilde;
+kernLeft = KO_egrave;
+kernRight = KO_eacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (78,0);
+ref = tildecomb;
+}
+);
+width = 594;
+}
+);
+unicode = 7869;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = parenright.ss01;
+kernLeft = KO_parenright.ss01;
+kernRight = KO_parenright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (541,600);
+ref = parenleft.ss01;
+}
+);
+width = 541;
+}
+);
+metricLeft = "=|parenleft";
+metricRight = "=|parenleft";
+}

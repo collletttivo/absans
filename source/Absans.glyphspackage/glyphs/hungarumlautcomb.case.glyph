@@ -1,0 +1,50 @@
+{
+color = 1;
+glyphname = hungarumlautcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (162,700);
+},
+{
+name = top;
+pos = (162,911);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x56fb5aea0;
+};
+closed = 1;
+nodes = (
+(102,773,l),
+(228,921,l),
+(111,921,l),
+(60,773,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x56fb5aea0;
+};
+closed = 1;
+nodes = (
+(266,773,l),
+(415,921,l),
+(293,921,l),
+(222,773,l)
+);
+}
+);
+width = 455;
+}
+);
+metricLeft = hungarumlautcomb;
+metricRight = hungarumlautcomb;
+}

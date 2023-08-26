@@ -1,0 +1,18 @@
+{
+glyphname = zerosuperior;
+kernLeft = KO_zerosuperior;
+kernRight = KO_threesuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = zero.numr;
+}
+);
+width = 394;
+}
+);
+unicode = 8304;
+}

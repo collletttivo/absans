@@ -1,0 +1,44 @@
+{
+glyphname = Y;
+kernLeft = KO_Y;
+kernRight = KO_Y;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = top;
+pos = (344,700);
+},
+{
+name = topleft;
+pos = (-10,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(2,700,l),
+(307,334,l),
+(307,0,l),
+(382,0,l),
+(382,335,l),
+(686,700,l),
+(595,700,l),
+(304,354,l),
+(385,354,l),
+(94,700,l)
+);
+}
+);
+width = 688;
+}
+);
+metricRight = "=|";
+unicode = 89;
+}

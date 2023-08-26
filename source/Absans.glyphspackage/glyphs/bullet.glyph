@@ -1,0 +1,25 @@
+{
+glyphname = bullet;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-59,-181);
+ref = periodcentered;
+scale = (1.69,1.69);
+}
+);
+width = 349;
+}
+);
+metricLeft = period;
+metricRight = "=|";
+unicode = 8226;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

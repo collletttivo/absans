@@ -1,0 +1,17 @@
+{
+glyphname = parenleftinferior;
+kernRight = KO_hyphen.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-705);
+ref = parenleftsuperior;
+}
+);
+width = 331;
+}
+);
+unicode = 8333;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = ninesuperior;
+kernLeft = KO_ninesuperior;
+kernRight = KO_threesuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = nine.numr;
+}
+);
+width = 379;
+}
+);
+unicode = 8313;
+}

@@ -1,0 +1,84 @@
+{
+glyphname = micro;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (296,0);
+},
+{
+name = ogonek;
+pos = (527,0);
+},
+{
+name = top;
+pos = (296,500);
+},
+{
+name = topright;
+pos = (553,500);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7fac38439d00;
+};
+closed = 1;
+nodes = (
+(203,44,o),
+(148,95,o),
+(148,194,cs),
+(148,500,l),
+(75,500,l),
+(75,181,l),
+(120,72,l),
+(145,18,o),
+(193,-12,o),
+(264,-12,cs),
+(387,-12,o),
+(448,79,o),
+(453,208,c),
+(427,208,l),
+(420,102,o),
+(364,44,o),
+(280,44,cs)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7fac38439d00;
+};
+closed = 1;
+nodes = (
+(427,500,l),
+(427,0,l),
+(499,0,l),
+(499,500,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7fac38439d00;
+};
+closed = 1;
+nodes = (
+(75,500,l),
+(75,-200,l),
+(147,-200,l),
+(147,500,l)
+);
+}
+);
+width = 573;
+}
+);
+metricLeft = l;
+metricRight = u;
+unicode = 181;
+}

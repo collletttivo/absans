@@ -1,0 +1,19 @@
+{
+glyphname = five.circled.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = whiteCircle.ss03;
+},
+{
+pos = (273,161);
+ref = five.dnom;
+}
+);
+width = 913;
+}
+);
+metricRight = whiteCircle;
+}

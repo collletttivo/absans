@@ -1,0 +1,19 @@
+{
+glyphname = q;
+kernLeft = KO_e;
+kernRight = KO_u;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (633,0);
+ref = p;
+scale = (-1,1);
+}
+);
+width = 633;
+}
+);
+unicode = 113;
+}

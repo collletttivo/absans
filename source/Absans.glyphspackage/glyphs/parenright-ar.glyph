@@ -1,0 +1,19 @@
+{
+glyphname = "parenright-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (625,600);
+ref = "parenleft-ar";
+}
+);
+width = 625;
+}
+);
+metricLeft = "=|parenleft-ar";
+metricRight = "=|parenleft-ar";
+unicode = 64831;
+}

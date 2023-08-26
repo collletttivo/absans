@@ -1,0 +1,60 @@
+{
+glyphname = U;
+kernLeft = KO_U;
+kernRight = KO_U;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (348,0);
+},
+{
+name = center;
+pos = (348,375);
+},
+{
+name = ogonek;
+pos = (454,-3);
+},
+{
+name = top;
+pos = (348,700);
+},
+{
+name = topright;
+pos = (670,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(514,-10,o),
+(615,91,o),
+(615,257,cs),
+(615,700,l),
+(540,700,l),
+(540,257,ls),
+(540,132,o),
+(467,56,o),
+(348,56,cs),
+(228,56,o),
+(155,132,o),
+(155,257,cs),
+(155,700,l),
+(80,700,l),
+(80,257,ls),
+(80,91,o),
+(182,-10,o),
+(348,-10,cs)
+);
+}
+);
+width = 695;
+}
+);
+metricRight = "=|";
+unicode = 85;
+}

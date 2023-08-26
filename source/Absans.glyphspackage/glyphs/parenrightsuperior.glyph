@@ -1,0 +1,21 @@
+{
+glyphname = parenrightsuperior;
+kernLeft = KO_parenrightsuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+pos = (331,0);
+ref = parenleftsuperior;
+scale = (-1,1);
+}
+);
+width = 331;
+}
+);
+metricLeft = "=|parenleftsuperior";
+metricRight = "=|parenleftsuperior";
+unicode = 8318;
+}

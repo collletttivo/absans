@@ -1,0 +1,47 @@
+{
+glyphname = asciicircum;
+kernLeft = KO_asciicircum;
+kernRight = KO_multiply;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (256,500);
+},
+{
+name = top;
+pos = (256,760);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 4;
+lineCapStart = 4;
+strokeHeight = 20;
+strokeWidth = 37;
+};
+closed = 0;
+nodes = (
+(104,393,l),
+(236,692,l),
+(240,692,l),
+(372,393,l)
+);
+}
+);
+width = 476;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 94;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

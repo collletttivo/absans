@@ -1,0 +1,27 @@
+{
+glyphname = istroke;
+kernRight = KO_eacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (27,0);
+ref = idotless;
+},
+{
+pos = (-1,0);
+ref = dotaccentcomb;
+},
+{
+pos = (-60,0);
+ref = strokeshortcomb.i;
+}
+);
+width = 273;
+}
+);
+metricRight = "=|";
+unicode = 616;
+}

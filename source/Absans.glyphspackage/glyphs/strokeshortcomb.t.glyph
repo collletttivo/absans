@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = strokeshortcomb.t;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (217,250);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,273,l),
+(393,273,l),
+(393,308,l),
+(40,308,l)
+);
+}
+);
+width = 422;
+}
+);
+}

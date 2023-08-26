@@ -1,0 +1,45 @@
+{
+glyphname = summation;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (308,0);
+},
+{
+name = center;
+pos = (308,350);
+},
+{
+name = top;
+pos = (308,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(556,0,l),
+(556,65,l),
+(132,65,l),
+(350,350,l),
+(132,635,l),
+(556,635,l),
+(556,700,l),
+(40,700,l),
+(40,645,l),
+(266,350,l),
+(40,55,l),
+(40,0,l)
+);
+}
+);
+width = 576;
+}
+);
+metricLeft = Z;
+metricRight = L;
+unicode = 8721;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = foursuperior;
+kernLeft = KO_foursuperior;
+kernRight = KO_onesuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = four.numr;
+}
+);
+width = 369;
+}
+);
+unicode = 8308;
+}

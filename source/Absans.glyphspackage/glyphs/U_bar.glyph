@@ -1,0 +1,22 @@
+{
+glyphname = Ubar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (40,0);
+ref = U;
+},
+{
+pos = (-60,-156);
+ref = strokelongcomb.case.H;
+}
+);
+width = 773;
+}
+);
+metricRight = "=|";
+unicode = 580;
+}

@@ -1,0 +1,36 @@
+{
+export = 0;
+glyphname = strokeshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (350,800);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,623,l),
+(413,623,l),
+(413,658,l),
+(60,658,l)
+);
+}
+);
+width = 473;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 821;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

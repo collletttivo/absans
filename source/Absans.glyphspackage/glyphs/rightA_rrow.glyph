@@ -1,0 +1,36 @@
+{
+glyphname = rightArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,241,l),
+(573,241,l),
+(573,300,l),
+(60,300,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(502,135,l),
+(663,271,l),
+(502,407,l)
+);
+}
+);
+width = 713;
+}
+);
+metricLeft = hyphen;
+unicode = 8594;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

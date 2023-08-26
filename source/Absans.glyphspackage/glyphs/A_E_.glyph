@@ -1,0 +1,111 @@
+{
+glyphname = AE;
+kernLeft = KO_AE;
+kernRight = KO_E;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (748,0);
+},
+{
+name = ogonek;
+pos = (999,10);
+},
+{
+name = top;
+pos = (748,700);
+},
+{
+name = topleft;
+pos = (454,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b7d27fa90;
+};
+closed = 1;
+nodes = (
+(93,0,l),
+(560,700,l),
+(475,700,l),
+(6,0,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b7d27fa90;
+};
+closed = 1;
+nodes = (
+(532,304,l),
+(557,369,l),
+(279,369,l),
+(234,304,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b67fbdb80;
+};
+closed = 1;
+nodes = (
+(594,0,l),
+(594,700,l),
+(519,700,l),
+(519,0,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b67fbdb80;
+};
+closed = 1;
+nodes = (
+(1002,0,l),
+(1002,65,l),
+(554,65,l),
+(554,0,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b67fbdb80;
+};
+closed = 1;
+nodes = (
+(1002,635,l),
+(1002,700,l),
+(554,700,l),
+(554,635,l)
+);
+},
+{
+attr = {
+fillColor = (0,255);
+identifier = ID0x7f7b67fbdb80;
+};
+closed = 1;
+nodes = (
+(992,344,l),
+(992,409,l),
+(554,409,l),
+(554,344,l)
+);
+}
+);
+width = 1052;
+}
+);
+metricRight = E;
+unicode = 198;
+}
