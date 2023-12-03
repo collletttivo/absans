@@ -1,5 +1,5 @@
 {
-.appVersion = "3214";
+.appVersion = "3217";
 .formatVersion = 3;
 classes = (
 {
@@ -546,7 +546,7 @@ value = 40;
 },
 {
 name = winAscent;
-value = 1030;
+value = 1021;
 },
 {
 name = winDescent;
@@ -561,16 +561,16 @@ name = hheaDescender;
 value = -330;
 },
 {
+name = hheaLineGap;
+value = 40;
+},
+{
 name = underlinePosition;
 value = -100;
 },
 {
 name = underlineThickness;
 value = 50;
-},
-{
-name = hheaLineGap;
-value = 40;
 }
 );
 guides = (
