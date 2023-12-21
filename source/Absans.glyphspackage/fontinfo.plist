@@ -10704,7 +10704,7 @@ value = "Valerio Monopoli";
 },
 {
 key = designerURL;
-value = www.morula.xyz;
+value = "https://www.morula.xyz";
 },
 {
 key = licenses;

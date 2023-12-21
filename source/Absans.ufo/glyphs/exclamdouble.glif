@@ -3,19 +3,19 @@
   <advance width="552"/>
   <unicode hex="203C"/>
   <outline>
-    <component base="exclam" identifier="E3D10887"/>
-    <component base="exclam" xOffset="276" identifier="A516B60D"/>
+    <component base="exclam" identifier="4A2D8078"/>
+    <component base="exclam" xOffset="276" identifier="7D0E7E0E"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A516B60D</key>
+        <key>4A2D8078</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>1</integer>
         </dict>
-        <key>E3D10887</key>
+        <key>7D0E7E0E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>1</integer>

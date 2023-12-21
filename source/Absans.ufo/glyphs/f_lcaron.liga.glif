@@ -2,7 +2,7 @@
 <glyph name="f_lcaron.liga" format="2">
   <advance width="724"/>
   <outline>
-    <component base="fl" identifier="4BB72AA4"/>
+    <component base="fl" identifier="158CCDA7"/>
     <component base="caroncomb.alt" xOffset="515"/>
   </outline>
   <lib>
@@ -13,7 +13,7 @@
       <string>lcaron</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4BB72AA4</key>
+        <key>158CCDA7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -3,7 +3,7 @@
   <advance width="643"/>
   <unicode hex="0111"/>
   <outline>
-    <component base="d" identifier="0F18E72C"/>
+    <component base="d" identifier="F7D7DA74"/>
     <component base="strokeshortcomb" xOffset="249"/>
   </outline>
   <lib>
@@ -12,7 +12,7 @@
       <string>d</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0F18E72C</key>
+        <key>F7D7DA74</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

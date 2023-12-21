@@ -3,7 +3,7 @@
   <advance width="764"/>
   <unicode hex="0110"/>
   <outline>
-    <component base="Eth" xOffset="-30" identifier="8DF482E3"/>
+    <component base="Eth" xOffset="-30" identifier="2A6038FD"/>
   </outline>
   <lib>
     <dict>
@@ -11,7 +11,7 @@
       <string>D</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8DF482E3</key>
+        <key>2A6038FD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

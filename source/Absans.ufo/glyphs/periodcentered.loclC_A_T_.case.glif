@@ -2,13 +2,13 @@
 <glyph name="periodcentered.loclCAT.case" format="2">
   <advance width="2"/>
   <outline>
-    <component base="periodcentered" xOffset="-308" yOffset="100" identifier="7AA144AE"/>
+    <component base="periodcentered" xOffset="-308" yOffset="100" identifier="DFD1BA63"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>7AA144AE</key>
+        <key>DFD1BA63</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

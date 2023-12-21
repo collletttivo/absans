@@ -2,7 +2,7 @@
 <glyph name="emdash.case" format="2">
   <advance width="613"/>
   <outline>
-    <component base="emdash" yOffset="80" identifier="AB26F5AF"/>
+    <component base="emdash" yOffset="80" identifier="2CA6D81D"/>
   </outline>
   <lib>
     <dict>
@@ -22,7 +22,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>AB26F5AF</key>
+        <key>2CA6D81D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

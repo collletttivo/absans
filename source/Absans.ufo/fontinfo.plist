@@ -40,7 +40,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>40</integer>
     <key>openTypeNameDesignerURL</key>
-    <string>www.morula.xyz</string>
+    <string>https://www.morula.xyz</string>
     <key>openTypeNameLicense</key>
     <string>SIL OpenFont License</string>
     <key>openTypeNameLicenseURL</key>

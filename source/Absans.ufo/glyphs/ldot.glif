@@ -4,13 +4,13 @@
   <unicode hex="0140"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered.loclCAT" xOffset="210" identifier="A982187C"/>
+    <component base="periodcentered.loclCAT" xOffset="210" identifier="96357954"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A982187C</key>
+        <key>96357954</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>1</integer>

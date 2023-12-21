@@ -3,7 +3,7 @@
   <advance width="609"/>
   <unicode hex="0141"/>
   <outline>
-    <component base="L" xOffset="41" identifier="81D95AC3"/>
+    <component base="L" xOffset="41" identifier="E8AE00D8"/>
     <component base="slashshortcomb.case" xOffset="-60"/>
   </outline>
   <lib>
@@ -12,7 +12,7 @@
       <string>L</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>81D95AC3</key>
+        <key>E8AE00D8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
