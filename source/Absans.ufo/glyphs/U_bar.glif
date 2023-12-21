@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ubar" format="2">
+  <advance width="773"/>
+  <unicode hex="0244"/>
+  <outline>
+    <component base="U" xOffset="40" identifier="C2DDCEEF"/>
+    <component base="strokelongcomb.case.H" xOffset="-60" yOffset="-156"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C2DDCEEF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

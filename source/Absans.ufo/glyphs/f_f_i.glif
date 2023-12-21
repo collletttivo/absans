@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_i" format="2">
+  <advance width="947"/>
+  <anchor x="908" y="0" name="bottom_1"/>
+  <anchor x="989" y="10" name="ogonek_1"/>
+  <anchor x="908" y="708" name="top_1"/>
+  <outline>
+    <component base="_f.rightsidelig"/>
+    <component base="fi" xOffset="333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>idotless</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb.case" format="2">
+  <advance width="473"/>
+  <anchor x="237" y="700" name="_top"/>
+  <anchor x="237" y="867" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="872" type="line"/>
+      <point x="60" y="813" type="line"/>
+      <point x="413" y="813" type="line"/>
+      <point x="413" y="872" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>hyphen</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

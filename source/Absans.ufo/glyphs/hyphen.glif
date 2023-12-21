@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance width="473"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="60" y="300" type="line"/>
+      <point x="60" y="241" type="line"/>
+      <point x="413" y="241" type="line"/>
+      <point x="413" y="300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>hyphen</string>
+          <key>R</key>
+          <string>hyphen</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

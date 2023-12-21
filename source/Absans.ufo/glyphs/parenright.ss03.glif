@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.ss03" format="2">
+  <advance width="598"/>
+  <outline>
+    <component base="parenleft.ss03" xScale="-1" xOffset="598"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|parenleft.ss03</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|parenleft.ss03</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dottedCircle" format="2">
+  <advance width="860"/>
+  <unicode hex="25CC"/>
+  <anchor x="430" y="161" name="circled"/>
+  <outline>
+    <contour>
+      <point x="148" y="582" type="move"/>
+      <point x="105" y="529"/>
+      <point x="77" y="464"/>
+      <point x="70" y="391" type="curve"/>
+    </contour>
+    <contour>
+      <point x="70" y="313" type="move"/>
+      <point x="78" y="240"/>
+      <point x="107" y="173"/>
+      <point x="151" y="120" type="curve"/>
+    </contour>
+    <contour>
+      <point x="391" y="711" type="move"/>
+      <point x="321" y="704"/>
+      <point x="257" y="677"/>
+      <point x="205" y="637" type="curve"/>
+    </contour>
+    <contour>
+      <point x="207" y="66" type="move"/>
+      <point x="259" y="27"/>
+      <point x="322" y="1"/>
+      <point x="391" y="-6" type="curve"/>
+    </contour>
+    <contour>
+      <point x="469" y="-6" type="move"/>
+      <point x="541" y="1"/>
+      <point x="606" y="29"/>
+      <point x="659" y="71" type="curve"/>
+    </contour>
+    <contour>
+      <point x="662" y="631" type="move"/>
+      <point x="609" y="675"/>
+      <point x="543" y="704"/>
+      <point x="469" y="711" type="curve"/>
+    </contour>
+    <contour>
+      <point x="715" y="127" type="move"/>
+      <point x="756" y="179"/>
+      <point x="782" y="243"/>
+      <point x="790" y="313" type="curve"/>
+    </contour>
+    <contour>
+      <point x="790" y="391" type="move"/>
+      <point x="783" y="461"/>
+      <point x="757" y="524"/>
+      <point x="717" y="576" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

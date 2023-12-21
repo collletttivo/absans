@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="653"/>
+  <unicode hex="2021"/>
+  <anchor x="201" y="0" name="bottom"/>
+  <anchor x="201" y="250" name="center"/>
+  <anchor x="201" y="500" name="top"/>
+  <anchor x="382" y="800" name="topright"/>
+  <outline>
+    <component base="dagger"/>
+    <component base="dagger" xOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dagger</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dagger</string>
+    </dict>
+  </lib>
+</glyph>

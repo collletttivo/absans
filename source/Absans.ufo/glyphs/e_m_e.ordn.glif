@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e_m_e.ordn" format="2">
+  <advance width="1653"/>
+  <outline>
+    <component base="e.ordn"/>
+    <component base="m.ordn" xOffset="478"/>
+    <component base="e.ordn" xOffset="1175"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

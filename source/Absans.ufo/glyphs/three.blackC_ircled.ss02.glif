@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.blackCircled.ss02" format="2">
+  <advance width="870"/>
+  <outline>
+    <component base="blackSquare"/>
+    <component base="three.dnom" xOffset="250" yOffset="158"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>whiteSquare</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>whiteSquare</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="518"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="443" y="346" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="75" y="346" type="line"/>
+      <point x="257" y="692" type="line"/>
+      <point x="261" y="692" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

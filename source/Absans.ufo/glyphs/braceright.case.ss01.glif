@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright.case.ss01" format="2">
+  <advance width="520"/>
+  <outline>
+    <component base="braceright.ss01" yOffset="51"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>braceleft</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>braceleft</string>
+    </dict>
+  </lib>
+</glyph>

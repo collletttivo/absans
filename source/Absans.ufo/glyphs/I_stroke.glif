@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Istroke" format="2">
+  <advance width="299"/>
+  <unicode hex="0197"/>
+  <outline>
+    <component base="I" xOffset="28" identifier="39AED767"/>
+    <component base="strokeshortcomb.case.I" xOffset="-57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>39AED767</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde" format="2">
+  <advance width="487"/>
+  <unicode hex="007E"/>
+  <anchor x="240" y="170" name="_top"/>
+  <anchor x="240" y="358" name="top"/>
+  <outline>
+    <contour>
+      <point x="410" y="331" type="line"/>
+      <point x="430" y="247"/>
+      <point x="394" y="225"/>
+      <point x="357" y="225" type="curve" smooth="yes"/>
+      <point x="271" y="225"/>
+      <point x="222" y="341"/>
+      <point x="123" y="341" type="curve" smooth="yes"/>
+      <point x="69" y="341"/>
+      <point x="12" y="307"/>
+      <point x="33" y="202" type="curve"/>
+      <point x="69" y="202" type="line"/>
+      <point x="49" y="287"/>
+      <point x="82" y="309"/>
+      <point x="118" y="309" type="curve" smooth="yes"/>
+      <point x="201" y="309"/>
+      <point x="250" y="193"/>
+      <point x="352" y="193" type="curve" smooth="yes"/>
+      <point x="409" y="193"/>
+      <point x="467" y="229"/>
+      <point x="446" y="331" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>math</string>
+          <key>R</key>
+          <string>math</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

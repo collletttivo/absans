@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integral" format="2">
+  <advance width="448"/>
+  <unicode hex="222B"/>
+  <anchor x="-89" y="-200" name="bottom"/>
+  <anchor x="-89" y="708" name="top"/>
+  <outline>
+    <contour>
+      <point x="5" y="-182" type="move"/>
+      <point x="136" y="-208"/>
+      <point x="224" y="-122"/>
+      <point x="224" y="8" type="curve"/>
+      <point x="224" y="597" type="line"/>
+      <point x="224" y="727"/>
+      <point x="312" y="813"/>
+      <point x="443" y="786" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>j</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|j</string>
+    </dict>
+  </lib>
+</glyph>

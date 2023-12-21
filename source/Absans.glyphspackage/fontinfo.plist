@@ -1,5 +1,5 @@
 {
-.appVersion = "3214";
+.appVersion = "3217";
 .formatVersion = 3;
 classes = (
 {
@@ -285,14 +285,7 @@ sub @Numbers [r R]' [o O]' by r_o.ordn;
 sub @Numbers [A a]' by ordfeminine;
 sub @Numbers [O o]' by ordmasculine;
 sub @Numbers [d D]' by d.ordn;
-sub @Numbers [e E]' by e.ordn;
-
-
-
-
-
-
-";
+sub @Numbers [e E]' by e.ordn;";
 tag = ordn;
 },
 {

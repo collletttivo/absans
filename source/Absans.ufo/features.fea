@@ -1,0 +1,450 @@
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcedilla Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Istroke Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lslash M N Nacute Ncaron Ncommaaccent Nhookleft Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Odotbelow Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Saltillo Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubar Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Lcommaaccent.loclMAH Ncommaaccent.loclMAH Q.ss03 Omega ];
+
+@Numbers = [ one two three four five six seven eight nine zero ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn MAH;
+languagesystem latn CAT;
+languagesystem latn NLD;
+
+feature aalt {
+# automatic
+feature locl;
+feature subs;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature lnum;
+feature onum;
+feature case;
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	sub fi by f i;
+	sub fl by f l;
+	sub Ldot by L periodcentered.loclCAT.case;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+} ccmp;
+
+feature locl {
+# automatic
+lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
+	language MAH;
+	sub Lcommaaccent by Lcommaaccent.loclMAH;
+	sub Ncommaaccent by Ncommaaccent.loclMAH;
+	sub lcommaaccent by lcommaaccent.loclMAH;
+	sub ncommaaccent by ncommaaccent.loclMAH;
+} locl_latn_2;
+
+lookup locl_latn_3 {
+	script latn;
+	language CAT;
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_3;
+
+lookup locl_latn_4 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_4;
+} locl;
+
+feature subs {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
+} subs;
+
+feature sinf {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
+} sinf;
+
+feature sups {
+# automatic
+sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+sub parenleft by parenleftsuperior;
+sub parenright by parenrightsuperior;
+} sups;
+
+feature numr {
+# automatic
+sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+} numr;
+
+feature dnom {
+# automatic
+sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+} dnom;
+
+feature frac {
+# automatic
+lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+} frac;
+
+feature ordn {
+sub @Numbers [d D]' [e E]' [s S]' by d_e_s.ordn;
+sub @Numbers [r R]' [e E]' [s S]' by r_e_s.ordn;
+sub @Numbers [e E]' [m M]' [e E]' by e_m_e.ordn;
+sub @Numbers [e E]' [r R]' [s S]' by e_r_s.ordn;
+
+sub @Numbers [s S]' [t T]' by s_t.ordn;
+sub @Numbers [d D]' [a A]' by d_a.ordn;
+sub @Numbers [d D]' [e E]' by d_e.ordn;
+sub @Numbers [d D]' [o O]' by d_o.ordn;
+sub @Numbers [d D]' [s S]' by d_s.ordn;
+sub @Numbers [e E]' [r R]' by e_r.ordn;
+sub @Numbers [n N]' [d D]' by n_d.ordn;
+sub @Numbers [r R]' [a A]' by r_a.ordn;
+sub @Numbers [r R]' [d D]' by r_d.ordn;
+sub @Numbers [r R]' [e E]' by r_e.ordn;
+sub @Numbers [s S]' [t T]' by s_t.ordn;
+sub @Numbers [t T]' [h H]' by t_h.ordn;
+sub @Numbers [r R]' [o O]' by r_o.ordn;
+
+sub @Numbers [A a]' by ordfeminine;
+sub @Numbers [O o]' by ordmasculine;
+sub @Numbers [d D]' by d.ordn;
+sub @Numbers [e E]' by e.ordn;
+} ordn;
+
+feature lnum {
+# automatic
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+} lnum;
+
+feature onum {
+# automatic
+sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+} onum;
+
+feature case {
+# automatic
+sub colon by colon.case;
+sub exclamdown by exclamdown.case;
+sub questiondown by questiondown.case;
+sub periodcentered by periodcentered.case;
+sub bullet by bullet.case;
+sub slash by slash.case;
+sub backslash by backslash.case;
+sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub hyphen by hyphen.case;
+sub endash by endash.case;
+sub emdash by emdash.case;
+sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub guillemetleft by guillemetleft.case;
+sub guillemetright by guillemetright.case;
+sub guilsinglleft by guilsinglleft.case;
+sub guilsinglright by guilsinglright.case;
+sub at by at.case;
+sub at.001 by at.001.case;
+sub rightArrow by rightArrow.case;
+sub leftArrow by leftArrow.case;
+sub leftRightArrow by leftRightArrow.case;
+sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+} case;
+
+feature dlig {
+# automatic
+lookupflag IgnoreMarks;
+sub t t t by t_t_t.dlig;
+sub t t by t_t.dlig;
+sub t tcaron by t_tcaron.dlig;
+} dlig;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub f f b by f_f_b.liga;
+sub f f h by f_f_h.liga;
+sub f f i by f_f_i;
+sub f f j by f_f_j.liga;
+sub f f k by f_f_k.liga;
+sub f f l by f_f_l;
+sub f f t by f_f_t.liga;
+sub f b by f_b.liga;
+sub f f by f_f;
+sub f h by f_h.liga;
+sub f i by f_i;
+sub f j by f_j.liga;
+sub f k by f_k.liga;
+sub f l by f_l;
+sub f lcaron by f_lcaron.liga;
+sub f t by f_t.liga;
+} liga;
+
+feature ss01 {
+# automatic
+featureNames {
+	name "Alternative Parentheses";
+};
+sub parenleft by parenleft.ss01;
+sub parenright by parenright.ss01;
+sub braceleft by braceleft.ss01;
+sub braceright by braceright.ss01;
+sub bracketleft by bracketleft.ss01;
+sub bracketright by bracketright.ss01;
+sub parenleft.case by parenleft.case.ss01;
+sub parenright.case by parenright.case.ss01;
+sub braceleft.case by braceleft.case.ss01;
+sub braceright.case by braceright.case.ss01;
+sub bracketleft.case by bracketleft.case.ss01;
+sub bracketright.case by bracketright.case.ss01;
+} ss01;
+
+feature ss02 {
+# automatic
+featureNames {
+	name "Squared containers";
+};
+sub zero.blackCircled by zero.blackCircled.ss02;
+sub one.blackCircled by one.blackCircled.ss02;
+sub two.blackCircled by two.blackCircled.ss02;
+sub three.blackCircled by three.blackCircled.ss02;
+sub four.blackCircled by four.blackCircled.ss02;
+sub five.blackCircled by five.blackCircled.ss02;
+sub six.blackCircled by six.blackCircled.ss02;
+sub seven.blackCircled by seven.blackCircled.ss02;
+sub eight.blackCircled by eight.blackCircled.ss02;
+sub nine.blackCircled by nine.blackCircled.ss02;
+sub zero.circled by zero.circled.ss02;
+sub one.circled by one.circled.ss02;
+sub two.circled by two.circled.ss02;
+sub three.circled by three.circled.ss02;
+sub four.circled by four.circled.ss02;
+sub five.circled by five.circled.ss02;
+sub six.circled by six.circled.ss02;
+sub seven.circled by seven.circled.ss02;
+sub eight.circled by eight.circled.ss02;
+sub nine.circled by nine.circled.ss02;
+} ss02;
+
+feature ss03 {
+# automatic
+featureNames {
+	name "Puffy containers and parentheses";
+};
+sub Q by Q.ss03;
+sub zero.blackCircled by zero.blackCircled.ss03;
+sub one.blackCircled by one.blackCircled.ss03;
+sub two.blackCircled by two.blackCircled.ss03;
+sub three.blackCircled by three.blackCircled.ss03;
+sub four.blackCircled by four.blackCircled.ss03;
+sub five.blackCircled by five.blackCircled.ss03;
+sub six.blackCircled by six.blackCircled.ss03;
+sub seven.blackCircled by seven.blackCircled.ss03;
+sub eight.blackCircled by eight.blackCircled.ss03;
+sub nine.blackCircled by nine.blackCircled.ss03;
+sub zero.circled by zero.circled.ss03;
+sub one.circled by one.circled.ss03;
+sub two.circled by two.circled.ss03;
+sub three.circled by three.circled.ss03;
+sub four.circled by four.circled.ss03;
+sub five.circled by five.circled.ss03;
+sub six.circled by six.circled.ss03;
+sub seven.circled by seven.circled.ss03;
+sub eight.circled by eight.circled.ss03;
+sub nine.circled by nine.circled.ss03;
+sub parenleft by parenleft.ss03;
+sub parenright by parenright.ss03;
+sub parenleft.case by parenleft.case.ss03;
+sub parenright.case by parenright.case.ss03;
+sub blackCircle by blackCircle.ss03;
+sub whiteCircle by whiteCircle.ss03;
+} ss03;
+
+feature ss04 {
+# automatic
+featureNames {
+	name "Single storey characters";
+};
+sub a by a.ss04;
+sub aacute by aacute.ss04;
+sub abreve by abreve.ss04;
+sub acircumflex by acircumflex.ss04;
+sub adieresis by adieresis.ss04;
+sub agrave by agrave.ss04;
+sub amacron by amacron.ss04;
+sub aogonek by aogonek.ss04;
+sub aring by aring.ss04;
+sub atilde by atilde.ss04;
+sub g by g.ss04;
+sub gbreve by gbreve.ss04;
+sub gcaron by gcaron.ss04;
+sub gcircumflex by gcircumflex.ss04;
+sub gcommaaccent by gcommaaccent.ss04;
+sub gdotaccent by gdotaccent.ss04;
+sub gmacron by gmacron.ss04;
+} ss04;
+

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="695"/>
+  <unicode hex="0055"/>
+  <anchor x="348" y="0" name="bottom"/>
+  <anchor x="348" y="375" name="center"/>
+  <anchor x="454" y="-3" name="ogonek"/>
+  <anchor x="348" y="700" name="top"/>
+  <anchor x="670" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="348" y="-10" type="curve" smooth="yes"/>
+      <point x="514" y="-10"/>
+      <point x="615" y="91"/>
+      <point x="615" y="257" type="curve" smooth="yes"/>
+      <point x="615" y="700" type="line"/>
+      <point x="540" y="700" type="line"/>
+      <point x="540" y="257" type="line" smooth="yes"/>
+      <point x="540" y="132"/>
+      <point x="467" y="56"/>
+      <point x="348" y="56" type="curve" smooth="yes"/>
+      <point x="228" y="56"/>
+      <point x="155" y="132"/>
+      <point x="155" y="257" type="curve" smooth="yes"/>
+      <point x="155" y="700" type="line"/>
+      <point x="80" y="700" type="line"/>
+      <point x="80" y="257" type="line" smooth="yes"/>
+      <point x="80" y="91"/>
+      <point x="182" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

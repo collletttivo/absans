@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <advance width="282"/>
+  <anchor x="141" y="700" name="_top"/>
+  <anchor x="141" y="899" name="top"/>
+  <outline>
+    <contour>
+      <point x="85" y="787" type="line"/>
+      <point x="197" y="787" type="line"/>
+      <point x="197" y="899" type="line"/>
+      <point x="85" y="899" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

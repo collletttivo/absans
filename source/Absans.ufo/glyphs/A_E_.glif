@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="1052"/>
+  <unicode hex="00C6"/>
+  <anchor x="748" y="0" name="bottom"/>
+  <anchor x="999" y="10" name="ogonek"/>
+  <anchor x="748" y="700" name="top"/>
+  <anchor x="454" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="6" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="560" y="700" type="line"/>
+      <point x="475" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="304" type="line"/>
+      <point x="532" y="304" type="line"/>
+      <point x="557" y="369" type="line"/>
+      <point x="279" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="0" type="line"/>
+      <point x="594" y="0" type="line"/>
+      <point x="594" y="700" type="line"/>
+      <point x="519" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="0" type="line"/>
+      <point x="1002" y="0" type="line"/>
+      <point x="1002" y="65" type="line"/>
+      <point x="554" y="65" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="635" type="line"/>
+      <point x="1002" y="635" type="line"/>
+      <point x="1002" y="700" type="line"/>
+      <point x="554" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="344" type="line"/>
+      <point x="992" y="344" type="line"/>
+      <point x="992" y="409" type="line"/>
+      <point x="554" y="409" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

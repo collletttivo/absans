@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="at.001.case" format="2">
+  <advance width="888"/>
+  <outline>
+    <component base="at.001" yOffset="97"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>at</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>at</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>GSCornerRadius</key>
+      <integer>140</integer>
+      <key>GSOffsetHorizontal</key>
+      <integer>-5</integer>
+      <key>GSOffsetKeepCompatible</key>
+      <integer>1</integer>
+      <key>GSOffsetVertical</key>
+      <integer>-5</integer>
+      <key>KernOnModels</key>
+      <array>
+        <string>L endash.case</string>
+        <string>fraction four.dnom</string>
+        <string>one.numr fraction</string>
+        <string>c i</string>
+        <string>i s</string>
+        <string>g i</string>
+        <string>l l</string>
+        <string>m l</string>
+        <string>r v</string>
+        <string>a x</string>
+        <string>n n</string>
+        <string>o o</string>
+        <string>g g</string>
+        <string>I I</string>
+        <string>T H</string>
+        <string>K H</string>
+        <string>C O</string>
+        <string>O O</string>
+        <string>period period</string>
+        <string>period semicolon</string>
+        <string>greater less</string>
+      </array>
+      <key>KernOnUserSetAutopairs</key>
+      <array>
+        <string>asterisk underscore</string>
+      </array>
+    </dict>
+  </dict>
+</plist>

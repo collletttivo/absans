@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_b.liga" format="2">
+  <advance width="1360"/>
+  <outline>
+    <component base="_f.rightsidelig"/>
+    <component base="f_b.liga" xOffset="333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>b</string>
+    </dict>
+  </lib>
+</glyph>

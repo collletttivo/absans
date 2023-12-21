@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.blackCircled.ss03" format="2">
+  <advance width="916"/>
+  <outline>
+    <component base="blackCircle.ss03"/>
+    <component base="two.dnom" xOffset="278" yOffset="161"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>whiteCircle</string>
+    </dict>
+  </lib>
+</glyph>

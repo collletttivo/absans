@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <advance width="306"/>
+  <unicode hex="0300"/>
+  <anchor x="222" y="500" name="_top"/>
+  <anchor x="222" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="246" y="573" type="line"/>
+      <point x="152" y="741" type="line"/>
+      <point x="40" y="741" type="line"/>
+      <point x="206" y="573" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

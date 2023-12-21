@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackCircle" format="2">
+  <advance width="868"/>
+  <unicode hex="25CF"/>
+  <anchor x="434" y="158" name="circled"/>
+  <outline>
+    <contour>
+      <point x="434" y="-24" type="curve"/>
+      <point x="649" y="-24"/>
+      <point x="816" y="143"/>
+      <point x="816" y="353" type="curve"/>
+      <point x="816" y="563"/>
+      <point x="649" y="730"/>
+      <point x="434" y="730" type="curve"/>
+      <point x="219" y="730"/>
+      <point x="52" y="563"/>
+      <point x="52" y="353" type="curve"/>
+      <point x="52" y="143"/>
+      <point x="219" y="-24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

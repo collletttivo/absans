@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="470"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="201" y="182" type="curve"/>
+      <point x="241" y="182" type="line"/>
+      <point x="241" y="334"/>
+      <point x="441" y="357"/>
+      <point x="441" y="531" type="curve" smooth="yes"/>
+      <point x="441" y="640"/>
+      <point x="361" y="712"/>
+      <point x="241" y="712" type="curve" smooth="yes"/>
+      <point x="130" y="712"/>
+      <point x="42" y="644"/>
+      <point x="22" y="543" type="curve"/>
+      <point x="92" y="460" type="line"/>
+      <point x="87" y="575"/>
+      <point x="147" y="651"/>
+      <point x="241" y="651" type="curve" smooth="yes"/>
+      <point x="316" y="651"/>
+      <point x="366" y="603"/>
+      <point x="366" y="531" type="curve" smooth="yes"/>
+      <point x="366" y="386"/>
+      <point x="187" y="377"/>
+    </contour>
+    <contour>
+      <point x="171" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="277" y="105" type="line"/>
+      <point x="171" y="105" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>spaced-off</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

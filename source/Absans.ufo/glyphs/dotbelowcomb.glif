@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <advance width="276"/>
+  <unicode hex="0323"/>
+  <anchor x="138" y="0" name="_bottom"/>
+  <anchor x="138" y="-198" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="85" y="-164" type="line"/>
+      <point x="191" y="-164" type="line"/>
+      <point x="191" y="-58" type="line"/>
+      <point x="85" y="-58" type="line"/>
+    </contour>
+  </outline>
+</glyph>

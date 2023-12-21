@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <advance width="785"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="47" y="505" type="move"/>
+      <point x="207" y="30" type="line"/>
+      <point x="208" y="30" type="line"/>
+      <point x="438" y="703" type="line"/>
+      <point x="765" y="703" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="458"/>
+  <unicode hex="00AA"/>
+  <anchor x="221" y="307" name="bottom"/>
+  <anchor x="417" y="307" name="ogonek"/>
+  <anchor x="221" y="697" name="top"/>
+  <outline>
+    <component base="a.ordn"/>
+  </outline>
+</glyph>

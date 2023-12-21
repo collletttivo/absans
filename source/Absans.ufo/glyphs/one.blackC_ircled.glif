@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.blackCircled" format="2">
+  <advance width="868"/>
+  <unicode hex="2776"/>
+  <outline>
+    <component base="blackCircle"/>
+    <component base="one.dnom" xOffset="319" yOffset="158"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>whiteCircle</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>whiteCircle</string>
+    </dict>
+  </lib>
+</glyph>

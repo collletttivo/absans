@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="294"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="-62"/>
+      <point x="145" y="-100"/>
+      <point x="85" y="-150" type="curve"/>
+      <point x="164" y="-150" type="line"/>
+      <point x="204" y="-100"/>
+      <point x="209" y="-65"/>
+      <point x="209" y="10" type="curve" smooth="yes"/>
+      <point x="209" y="105" type="line"/>
+      <point x="103" y="105" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="397" type="line"/>
+      <point x="209" y="397" type="line"/>
+      <point x="209" y="502" type="line"/>
+      <point x="103" y="502" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>comma</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>comma</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>spaced-off</string>
+          <key>R</key>
+          <string>spaced-off</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

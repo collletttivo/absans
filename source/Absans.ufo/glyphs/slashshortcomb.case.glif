@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashshortcomb.case" format="2">
+  <advance width="473"/>
+  <anchor x="390" y="350" name="_center"/>
+  <outline>
+    <contour>
+      <point x="60" y="308" type="line"/>
+      <point x="60" y="270" type="line"/>
+      <point x="413" y="410" type="line"/>
+      <point x="413" y="448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>hyphen</string>
+    </dict>
+  </lib>
+</glyph>

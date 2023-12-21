@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft.ss01" format="2">
+  <advance width="514"/>
+  <outline>
+    <contour>
+      <point x="484" y="800" type="move"/>
+      <point x="85" y="800" type="line"/>
+      <point x="85" y="-200" type="line"/>
+      <point x="484" y="-200" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="800" type="move"/>
+      <point x="248" y="-200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>bracketleft</string>
+    </dict>
+  </lib>
+</glyph>

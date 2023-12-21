@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteSmilingFace" format="2">
+  <advance width="868"/>
+  <unicode hex="263A"/>
+  <outline>
+    <contour>
+      <point x="434" y="-8" type="curve" smooth="yes"/>
+      <point x="637" y="-8"/>
+      <point x="796" y="151"/>
+      <point x="796" y="353" type="curve" smooth="yes"/>
+      <point x="796" y="555"/>
+      <point x="637" y="713"/>
+      <point x="434" y="713" type="curve" smooth="yes"/>
+      <point x="231" y="713"/>
+      <point x="72" y="555"/>
+      <point x="72" y="353" type="curve" smooth="yes"/>
+      <point x="72" y="151"/>
+      <point x="231" y="-8"/>
+    </contour>
+    <contour>
+      <point x="343" y="322" type="curve" smooth="yes"/>
+      <point x="366" y="322"/>
+      <point x="379" y="367"/>
+      <point x="379" y="444" type="curve" smooth="yes"/>
+      <point x="379" y="521"/>
+      <point x="366" y="566"/>
+      <point x="343" y="566" type="curve" smooth="yes"/>
+      <point x="320" y="566"/>
+      <point x="307" y="521"/>
+      <point x="307" y="444" type="curve" smooth="yes"/>
+      <point x="307" y="367"/>
+      <point x="320" y="322"/>
+    </contour>
+    <contour>
+      <point x="211" y="204" type="move"/>
+      <point x="258" y="204"/>
+      <point x="295" y="241"/>
+      <point x="295" y="289" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="269" y="232" type="move"/>
+      <point x="314" y="180"/>
+      <point x="370" y="161"/>
+      <point x="430" y="161" type="curve" smooth="yes"/>
+      <point x="490" y="161"/>
+      <point x="546" y="180"/>
+      <point x="591" y="232" type="curve"/>
+    </contour>
+    <contour>
+      <point x="649" y="204" type="move"/>
+      <point x="602" y="204"/>
+      <point x="565" y="241"/>
+      <point x="565" y="289" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="518" y="322" type="curve" smooth="yes"/>
+      <point x="541" y="322"/>
+      <point x="554" y="367"/>
+      <point x="554" y="444" type="curve" smooth="yes"/>
+      <point x="554" y="521"/>
+      <point x="541" y="566"/>
+      <point x="518" y="566" type="curve" smooth="yes"/>
+      <point x="495" y="566"/>
+      <point x="482" y="521"/>
+      <point x="482" y="444" type="curve" smooth="yes"/>
+      <point x="482" y="367"/>
+      <point x="495" y="322"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>whiteCircle</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>whiteCircle</string>
+    </dict>
+  </lib>
+</glyph>
